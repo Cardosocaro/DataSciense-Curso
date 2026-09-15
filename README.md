@@ -10,17 +10,13 @@ En este repositorio se encuentran notebooks correspondientes a las diferentes ac
 
 ### Notebooks
 
-- `practica_1_ypf_ciencia_de_datos_numpy5.ipynb`
+- `TP1-numpy5.ipynb`
   - Ejercicios de Ciencia de Datos utilizando NumPy.
   - Aplicación sobre un conjunto de datos.
 
-- `TP2_Pandas_de_tarea_ventas-3.ipynb`
+- ` TP2_Pandas_de_tarea_ventas-3.ipynb`
   - Ejercicios de análisis y manipulación de datos utilizando Pandas.
   - Trabajo sobre un conjunto de datos de ventas.
-
-- `EDA_Spotify_Entrega_2.ipynb`
-  - Análisis Exploratorio de Datos (EDA) correspondiente al proyecto final.
-  - Análisis de un dataset de canciones de Spotify y sus características musicales.
 
 ---
 
@@ -75,7 +71,7 @@ https://www.kaggle.com/datasets/saichaitanyareddyai/spotify-tracks-dataset-audio
 
 # 🔎 Análisis Exploratorio de Datos (EDA)
 
-El notebook `EDA_Spotify_Entrega_2-Grupo-11.ipynb` contiene el análisis exploratorio correspondiente a la segunda pre-entrega del proyecto final.
+El notebook `EDA_Spotify.ipynb` contiene el análisis exploratorio correspondiente a la segunda pre-entrega del proyecto final.
 
 ## 1. Exploración inicial
 
