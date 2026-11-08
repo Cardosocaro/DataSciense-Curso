@@ -1,6 +1,6 @@
-# DataScience-Curso
+# Data Science – Spotify: popularidad y perfiles musicales
 
-Repositorio correspondiente a los proyectos y trabajos prácticos desarrollados durante la formación en Data Science.
+Repositorio de las cuatro etapas de la formación en Data Science: fundamentos con NumPy y Pandas, exploración del catálogo de Spotify, aprendizaje supervisado y clustering no supervisado.
 
 ---
 
@@ -18,6 +18,10 @@ En este repositorio se encuentran notebooks correspondientes a las diferentes ac
   - Ejercicios de análisis y manipulación de datos utilizando Pandas.
   - Trabajo sobre un conjunto de datos de ventas.
 
+- `Tp-Final/EDA_Spotify.ipynb`: exploración, limpieza y visualización del dataset Spotify.
+- `Tp-Final/Modelado_Supervisado_Spotify.ipynb`: regresión y clasificación, con validación y optimización.
+- `Tp-Final/Modelado_No_Supervisado_Spotify.ipynb`: clustering K-Means, PCA e interpretación de perfiles musicales.
+
 ---
 
 # 🎵 Proyecto Final: Análisis de canciones de Spotify
@@ -31,6 +35,8 @@ La pregunta principal que orienta el análisis es:
 > **¿Qué características musicales están relacionadas con la popularidad de una canción y cómo varían estas características entre los distintos géneros musicales?**
 
 La variable `popularity` se toma como referencia para analizar el nivel de popularidad de las canciones.
+
+Como objetivo complementario, el clustering descubre perfiles musicales sin usar popularidad ni género como etiquetas.
 
 ---
 
@@ -195,6 +201,32 @@ Por otro lado, el análisis de correlaciones muestra que características como `
 Esto sugiere que la popularidad de una canción no puede explicarse únicamente a partir de una característica musical individual y que podrían intervenir múltiples factores.
 
 Los resultados obtenidos en esta etapa servirán como base para las siguientes fases del proyecto, incluyendo la selección de variables y el desarrollo de modelos predictivos.
+
+---
+
+# 🤖 Modelado supervisado
+
+Se desarrollan dos problemas: regresión para estimar `popularity` y clasificación para predecir `popularity_category`. Se comparan Ridge y Random Forest en regresión (MAE, RMSE y R²), y regresión logística y Random Forest en clasificación (accuracy, balanced accuracy y Macro F1).
+
+Las transformaciones se incluyen en pipelines para prevenir data leakage. La partición train/test y la validación cruzada agrupan por `track_id`; así, la misma canción no aparece en ambos conjuntos. La optimización usa sólo el conjunto de entrenamiento y las brechas entre entrenamiento y validación ayudan a controlar overfitting.
+
+# 🧩 Modelado no supervisado
+
+El notebook de clustering agrupa canciones por `danceability`, `energy`, `valence`, `acousticness`, `instrumentalness`, `speechiness`, `liveness` y `tempo`. Imputa eventuales faltantes con la mediana y estandariza todas las variables porque K-Means utiliza distancias.
+
+Compara entre 2 y 8 clusters con el método del codo e índice silhouette y elige el valor con mejor silhouette de la grilla evaluada. PCA permite visualizar los resultados, mientras que tablas y mapas de calor describen los perfiles con sus medias reales. Los clusters son segmentos descriptivos de audio, no géneros ni causas de popularidad.
+
+# ▶️ Instalación y ejecución
+
+Se recomienda Python 3.10 o superior. Instalar las dependencias:
+
+```bash
+python -m pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+Abrir Jupyter desde la raíz del repositorio y ejecutar los notebooks de arriba hacia abajo. Los notebooks de `Tp-Final/` localizan automáticamente `Data/spotify-tracks-dataset-detailed.csv`, por lo que no dependen de una ruta de Google Colab ni de otro notebook ejecutado previamente. La secuencia sugerida es: fundamentos, EDA, modelado supervisado y clustering.
+
+Limitaciones: K-Means favorece grupos compactos, los resultados dependen de las variables seleccionadas y PCA simplifica la información al graficar dos componentes.
 
 ---
 

@@ -1,0 +1,1201 @@
+id_venta,fecha,nombre,apellido,producto,categoria,cantidad,precio_unitario,total,provincia,anio,mes
+1,2026-02-22,juan,torres,Notebook,Computacion,3,900000,2700000.0,Corrientes,2026,2026-02
+2,2025-12-12,lucia,gomez,Mouse,Perifericos,1,18000,18000.0,Formosa,2025,2025-12
+3,2025-11-20,maria,perez,Auriculares,Audio,4,50000,200000.0,Chaco,2025,2025-11
+4,2026-03-17,carlos,gomez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2026,2026-03
+5,2026-06-24,ana,romero,Auriculares,Audio,4,50000,200000.0,Cordoba,2026,2026-06
+6,2026-05-13,mateo,torres,Teclado,Perifericos,5,35000,175000.0,Buenos Aires,2026,2026-05
+7,2025-09-26,ana,romero,Monitor,Pantallas,1,280000,280000.0,Buenos Aires,2025,2025-09
+8,2025-12-11,valentina,martinez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-12
+9,2025-03-03,sofia,fernandez,Monitor,Pantallas,4,280000,1120000.0,Misiones,2025,2025-03
+10,2026-04-01,sofia,gomez,Monitor,Pantallas,2,280000,560000.0,Misiones,2026,2026-04
+11,2025-12-27,mateo,romero,Monitor,Pantallas,1,280000,280000.0,Formosa,2025,2025-12
+12,2025-04-01,juan,romero,Auriculares,Audio,1,50000,50000.0,Cordoba,2025,2025-04
+13,2025-11-27,sofia,torres,Webcam,Video,4,70000,280000.0,Misiones,2025,2025-11
+14,2025-06-17,mateo,lopez,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2025,2025-06
+15,2025-02-28,mateo,rodriguez,Monitor,Pantallas,1,280000,280000.0,Buenos Aires,2025,2025-02
+16,2026-02-03,martin,torres,Impresora,Impresion,3,220000,660000.0,Buenos Aires,2026,2026-02
+17,2025-03-05,sofia,gomez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-03
+18,2025-01-29,ana,torres,Impresora,Impresion,4,220000,880000.0,Chaco,2025,2025-01
+19,2026-01-13,valentina,perez,Mouse,Perifericos,5,18000,90000.0,Cordoba,2026,2026-01
+20,2025-09-28,martin,fernandez,Monitor,Pantallas,2,280000,560000.0,Chaco,2025,2025-09
+21,2026-08-02,valentina,perez,Impresora,Impresion,1,220000,220000.0,Cordoba,2026,2026-08
+22,2026-07-02,sofia,romero,Auriculares,Audio,2,50000,100000.0,Corrientes,2026,2026-07
+23,2025-12-15,lucia,lopez,Webcam,Video,5,70000,350000.0,Buenos Aires,2025,2025-12
+24,2026-05-22,valentina,gomez,Notebook,Computacion,5,900000,4500000.0,Misiones,2026,2026-05
+25,2025-08-10,ana,lopez,Mouse,Perifericos,4,18000,72000.0,Formosa,2025,2025-08
+26,2025-09-29,pedro,romero,Impresora,Impresion,4,220000,880000.0,Formosa,2025,2025-09
+27,2026-05-30,ana,romero,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-05
+28,2026-08-11,ana,diaz,Teclado,Perifericos,3,35000,105000.0,Misiones,2026,2026-08
+29,2026-04-12,carlos,gomez,Auriculares,Audio,5,50000,250000.0,Formosa,2026,2026-04
+30,2025-05-16,juan,torres,Notebook,Computacion,4,900000,3600000.0,Corrientes,2025,2025-05
+31,2025-08-15,juan,torres,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-08
+32,2025-01-15,mateo,perez,Webcam,Video,5,70000,350000.0,Corrientes,2025,2025-01
+33,2025-02-14,sofia,lopez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2025,2025-02
+34,2026-06-28,carlos,diaz,Mouse,Perifericos,5,18000,90000.0,Corrientes,2026,2026-06
+35,2026-07-13,lucia,perez,Auriculares,Audio,1,50000,50000.0,Misiones,2026,2026-07
+36,2026-08-07,mateo,martinez,Teclado,Perifericos,4,35000,140000.0,Misiones,2026,2026-08
+37,2025-09-05,lucia,perez,Monitor,Pantallas,2,280000,560000.0,Formosa,2025,2025-09
+38,2026-07-15,lucia,romero,Notebook,Computacion,4,900000,3600000.0,Corrientes,2026,2026-07
+39,2025-11-29,juan,martinez,Monitor,Pantallas,3,280000,840000.0,Misiones,2025,2025-11
+40,2026-03-22,lucia,perez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2026,2026-03
+41,2025-04-20,sofia,torres,Mouse,Perifericos,2,18000,36000.0,Formosa,2025,2025-04
+42,2026-01-07,juan,torres,Teclado,Perifericos,5,35000,175000.0,Cordoba,2026,2026-01
+43,2025-07-30,pedro,lopez,Webcam,Video,3,70000,210000.0,Chaco,2025,2025-07
+44,2025-03-30,maria,fernandez,Impresora,Impresion,1,220000,220000.0,Misiones,2025,2025-03
+45,2025-06-05,maria,gomez,Monitor,Pantallas,4,280000,1120000.0,Misiones,2025,2025-06
+46,2025-08-29,ana,lopez,Impresora,Impresion,2,220000,440000.0,Buenos Aires,2025,2025-08
+47,2026-02-15,lucia,gomez,Notebook,Computacion,3,900000,2700000.0,Formosa,2026,2026-02
+48,2025-05-09,juan,torres,Notebook,Computacion,2,900000,1800000.0,Misiones,2025,2025-05
+49,2025-05-14,juan,rodriguez,Auriculares,Audio,3,50000,150000.0,Corrientes,2025,2025-05
+50,2026-06-03,carlos,romero,Webcam,Video,1,70000,70000.0,Chaco,2026,2026-06
+51,2025-04-18,martin,romero,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2025,2025-04
+52,2026-01-02,sofia,torres,Notebook,Computacion,2,900000,1800000.0,Chaco,2026,2026-01
+53,2025-02-01,pedro,martinez,Teclado,Perifericos,1,35000,35000.0,Formosa,2025,2025-02
+54,2025-05-05,maria,gomez,Monitor,Pantallas,5,280000,1400000.0,Corrientes,2025,2025-05
+55,2025-09-24,martin,torres,Monitor,Pantallas,3,280000,840000.0,Corrientes,2025,2025-09
+56,2025-08-29,maria,perez,Mouse,Perifericos,3,18000,54000.0,Misiones,2025,2025-08
+57,2025-07-04,pedro,gomez,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-07
+58,2025-05-13,maria,torres,Monitor,Pantallas,1,280000,280000.0,Misiones,2025,2025-05
+59,2025-03-08,maria,romero,Monitor,Pantallas,4,280000,1120000.0,Cordoba,2025,2025-03
+60,2025-11-14,martin,martinez,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2025,2025-11
+61,2025-07-24,sofia,romero,Monitor,Pantallas,3,280000,840000.0,Chaco,2025,2025-07
+62,2025-03-06,lucia,sanchez,Monitor,Pantallas,1,280000,280000.0,Misiones,2025,2025-03
+63,2025-03-18,lucia,diaz,Webcam,Video,5,70000,350000.0,Cordoba,2025,2025-03
+64,2025-02-06,martin,gomez,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2025,2025-02
+65,2025-07-06,mateo,perez,Teclado,Perifericos,5,35000,175000.0,Formosa,2025,2025-07
+66,2025-05-20,valentina,martinez,Monitor,Pantallas,2,280000,560000.0,Misiones,2025,2025-05
+67,2025-07-08,martin,gomez,Webcam,Video,3,70000,210000.0,Cordoba,2025,2025-07
+68,2025-04-14,lucia,torres,Webcam,Video,2,70000,140000.0,Formosa,2025,2025-04
+69,2026-04-22,carlos,sanchez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2026,2026-04
+70,2025-02-10,valentina,diaz,Impresora,Impresion,3,220000,660000.0,Misiones,2025,2025-02
+71,2025-03-16,mateo,torres,Webcam,Video,2,70000,140000.0,Buenos Aires,2025,2025-03
+72,2025-08-26,martin,martinez,Notebook,Computacion,4,900000,3600000.0,Cordoba,2025,2025-08
+73,2025-10-01,sofia,fernandez,Webcam,Video,4,70000,280000.0,Buenos Aires,2025,2025-10
+74,2025-05-28,juan,lopez,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-05
+75,2025-07-03,lucia,lopez,Webcam,Video,4,70000,280000.0,Cordoba,2025,2025-07
+76,2025-10-11,martin,diaz,Webcam,Video,1,70000,70000.0,Formosa,2025,2025-10
+77,2025-02-18,mateo,perez,Teclado,Perifericos,4,35000,140000.0,Misiones,2025,2025-02
+78,2025-12-28,lucia,torres,Teclado,Perifericos,1,35000,35000.0,Buenos Aires,2025,2025-12
+79,2025-12-16,juan,lopez,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-12
+80,2025-01-15,pedro,martinez,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2025,2025-01
+81,2025-02-18,pedro,gomez,Webcam,Video,1,70000,70000.0,Misiones,2025,2025-02
+82,2026-05-27,lucia,martinez,Auriculares,Audio,4,50000,200000.0,Corrientes,2026,2026-05
+83,2025-04-30,ana,romero,Webcam,Video,4,70000,280000.0,Chaco,2025,2025-04
+84,2026-01-13,maria,romero,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2026,2026-01
+85,2025-02-11,maria,torres,Teclado,Perifericos,4,35000,140000.0,Misiones,2025,2025-02
+86,2025-03-06,pedro,gomez,Impresora,Impresion,3,220000,660000.0,Misiones,2025,2025-03
+87,2025-07-29,ana,rodriguez,Auriculares,Audio,3,50000,150000.0,Corrientes,2025,2025-07
+88,2026-07-02,juan,diaz,Auriculares,Audio,4,50000,200000.0,Chaco,2026,2026-07
+89,2026-07-26,carlos,fernandez,Mouse,Perifericos,2,18000,36000.0,Misiones,2026,2026-07
+90,2026-04-03,carlos,rodriguez,Impresora,Impresion,3,220000,660000.0,Buenos Aires,2026,2026-04
+91,2025-11-26,valentina,torres,Teclado,Perifericos,4,35000,140000.0,Chaco,2025,2025-11
+92,2026-03-03,sofia,sanchez,Impresora,Impresion,1,220000,220000.0,Cordoba,2026,2026-03
+93,2026-06-17,mateo,perez,Monitor,Pantallas,3,280000,840000.0,Misiones,2026,2026-06
+94,2025-05-19,ana,sanchez,Auriculares,Audio,1,50000,50000.0,Chaco,2025,2025-05
+95,2025-06-14,valentina,sanchez,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-06
+96,2025-11-13,lucia,diaz,Monitor,Pantallas,5,280000,1400000.0,Chaco,2025,2025-11
+97,2025-06-15,maria,gomez,Monitor,Pantallas,3,280000,840000.0,Chaco,2025,2025-06
+98,2026-03-22,martin,gomez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2026,2026-03
+99,2025-06-09,carlos,diaz,Monitor,Pantallas,1,280000,280000.0,Cordoba,2025,2025-06
+100,2026-05-15,mateo,sanchez,Mouse,Perifericos,4,18000,72000.0,Cordoba,2026,2026-05
+101,2026-03-28,valentina,fernandez,Monitor,Pantallas,2,280000,560000.0,Cordoba,2026,2026-03
+102,2025-05-02,pedro,gomez,Monitor,Pantallas,2,280000,560000.0,Buenos Aires,2025,2025-05
+103,2025-08-26,mateo,perez,Impresora,Impresion,4,220000,880000.0,Corrientes,2025,2025-08
+104,2025-06-05,lucia,perez,Auriculares,Audio,3,50000,150000.0,Cordoba,2025,2025-06
+105,2026-04-22,maria,torres,Mouse,Perifericos,4,18000,72000.0,Formosa,2026,2026-04
+106,2025-05-25,pedro,diaz,Impresora,Impresion,4,220000,880000.0,Formosa,2025,2025-05
+107,2025-12-26,maria,martinez,Webcam,Video,4,70000,280000.0,Corrientes,2025,2025-12
+108,2025-04-16,ana,diaz,Mouse,Perifericos,5,18000,90000.0,Misiones,2025,2025-04
+109,2025-12-07,sofia,torres,Monitor,Pantallas,2,280000,560000.0,Buenos Aires,2025,2025-12
+110,2025-06-14,valentina,romero,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-06
+111,2025-08-25,lucia,sanchez,Teclado,Perifericos,1,35000,35000.0,Chaco,2025,2025-08
+112,2025-11-25,juan,diaz,Auriculares,Audio,3,50000,150000.0,Misiones,2025,2025-11
+113,2025-09-23,carlos,diaz,Webcam,Video,1,70000,70000.0,Buenos Aires,2025,2025-09
+114,2025-05-09,carlos,torres,Impresora,Impresion,2,220000,440000.0,Formosa,2025,2025-05
+115,2025-11-29,maria,diaz,Teclado,Perifericos,5,35000,175000.0,Corrientes,2025,2025-11
+116,2026-03-04,sofia,diaz,Notebook,Computacion,3,900000,2700000.0,Formosa,2026,2026-03
+117,2026-03-15,martin,gomez,Notebook,Computacion,2,900000,1800000.0,Cordoba,2026,2026-03
+118,2025-05-15,lucia,perez,Impresora,Impresion,3,220000,660000.0,Cordoba,2025,2025-05
+119,2026-05-24,lucia,romero,Auriculares,Audio,5,50000,250000.0,Buenos Aires,2026,2026-05
+120,2025-07-17,martin,rodriguez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-07
+121,2026-02-05,lucia,perez,Mouse,Perifericos,2,18000,36000.0,Buenos Aires,2026,2026-02
+122,2026-03-25,juan,sanchez,Monitor,Pantallas,3,280000,840000.0,Formosa,2026,2026-03
+123,2025-12-14,pedro,fernandez,Webcam,Video,5,70000,350000.0,Buenos Aires,2025,2025-12
+124,2025-11-14,ana,diaz,Teclado,Perifericos,2,35000,70000.0,Buenos Aires,2025,2025-11
+125,2026-05-13,valentina,lopez,Impresora,Impresion,3,220000,660000.0,Misiones,2026,2026-05
+126,2025-05-28,juan,martinez,Auriculares,Audio,1,50000,50000.0,Buenos Aires,2025,2025-05
+127,2025-01-26,lucia,sanchez,Teclado,Perifericos,2,35000,70000.0,Corrientes,2025,2025-01
+128,2026-08-20,mateo,fernandez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2026,2026-08
+129,2025-08-21,pedro,gomez,Webcam,Video,5,70000,350000.0,Corrientes,2025,2025-08
+130,2026-02-11,maria,rodriguez,Mouse,Perifericos,2,18000,36000.0,Misiones,2026,2026-02
+131,2026-03-10,lucia,torres,Webcam,Video,2,70000,140000.0,Cordoba,2026,2026-03
+132,2026-03-24,sofia,perez,Auriculares,Audio,1,50000,50000.0,Misiones,2026,2026-03
+133,2025-02-28,pedro,perez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-02
+134,2025-09-05,lucia,gomez,Webcam,Video,2,70000,140000.0,Formosa,2025,2025-09
+135,2026-07-20,pedro,diaz,Auriculares,Audio,2,50000,100000.0,Misiones,2026,2026-07
+136,2026-03-09,maria,martinez,Auriculares,Audio,5,50000,250000.0,Formosa,2026,2026-03
+137,2025-08-25,pedro,fernandez,Monitor,Pantallas,4,280000,1120000.0,Chaco,2025,2025-08
+138,2025-11-10,lucia,rodriguez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2025,2025-11
+139,2025-11-16,maria,rodriguez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2025,2025-11
+140,2026-06-13,ana,diaz,Webcam,Video,5,70000,350000.0,Chaco,2026,2026-06
+141,2025-03-17,juan,perez,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-03
+142,2026-06-27,juan,fernandez,Monitor,Pantallas,5,280000,1400000.0,Buenos Aires,2026,2026-06
+143,2026-08-04,valentina,rodriguez,Monitor,Pantallas,2,280000,560000.0,Formosa,2026,2026-08
+144,2025-04-03,martin,rodriguez,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-04
+145,2025-05-10,pedro,torres,Webcam,Video,4,70000,280000.0,Cordoba,2025,2025-05
+146,2025-11-30,valentina,lopez,Mouse,Perifericos,5,18000,90000.0,Chaco,2025,2025-11
+147,2025-04-06,lucia,romero,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-04
+148,2026-07-01,carlos,torres,Teclado,Perifericos,3,35000,105000.0,Cordoba,2026,2026-07
+149,2025-04-21,pedro,diaz,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-04
+150,2025-05-05,carlos,fernandez,Webcam,Video,4,70000,280000.0,Formosa,2025,2025-05
+151,2025-12-12,mateo,perez,Auriculares,Audio,5,50000,250000.0,Cordoba,2025,2025-12
+152,2026-02-07,juan,fernandez,Webcam,Video,1,70000,70000.0,Misiones,2026,2026-02
+153,2025-03-14,pedro,rodriguez,Webcam,Video,5,70000,350000.0,Corrientes,2025,2025-03
+154,2026-01-01,mateo,diaz,Monitor,Pantallas,3,280000,840000.0,Formosa,2026,2026-01
+155,2025-08-16,pedro,rodriguez,Mouse,Perifericos,5,18000,90000.0,Formosa,2025,2025-08
+156,2026-03-29,juan,rodriguez,Webcam,Video,2,70000,140000.0,Misiones,2026,2026-03
+157,2026-04-16,juan,lopez,Impresora,Impresion,5,220000,1100000.0,Chaco,2026,2026-04
+158,2026-07-02,juan,perez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2026,2026-07
+159,2025-07-06,sofia,gomez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2025,2025-07
+160,2026-01-28,ana,torres,Mouse,Perifericos,2,18000,36000.0,Formosa,2026,2026-01
+161,2025-10-27,sofia,romero,Auriculares,Audio,2,50000,100000.0,Corrientes,2025,2025-10
+162,2026-07-05,carlos,perez,Auriculares,Audio,4,50000,200000.0,Cordoba,2026,2026-07
+163,2025-07-29,juan,rodriguez,Teclado,Perifericos,3,35000,105000.0,Buenos Aires,2025,2025-07
+164,2026-05-05,lucia,perez,Teclado,Perifericos,1,35000,35000.0,Cordoba,2026,2026-05
+165,2025-07-14,lucia,torres,Auriculares,Audio,4,50000,200000.0,Chaco,2025,2025-07
+166,2025-07-11,juan,torres,Monitor,Pantallas,3,280000,840000.0,Misiones,2025,2025-07
+167,2026-02-06,valentina,sanchez,Webcam,Video,1,70000,70000.0,Misiones,2026,2026-02
+168,2025-07-05,mateo,perez,Impresora,Impresion,4,220000,880000.0,Chaco,2025,2025-07
+169,2025-01-06,pedro,perez,Webcam,Video,1,70000,70000.0,Corrientes,2025,2025-01
+170,2025-09-30,carlos,lopez,Webcam,Video,3,70000,210000.0,Misiones,2025,2025-09
+171,2025-10-22,juan,perez,Impresora,Impresion,5,220000,1100000.0,Formosa,2025,2025-10
+172,2025-03-15,juan,torres,Mouse,Perifericos,1,18000,18000.0,Cordoba,2025,2025-03
+173,2025-10-18,ana,romero,Teclado,Perifericos,5,35000,175000.0,Cordoba,2025,2025-10
+174,2025-08-09,sofia,fernandez,Monitor,Pantallas,5,280000,1400000.0,Chaco,2025,2025-08
+175,2025-02-23,carlos,gomez,Mouse,Perifericos,4,18000,72000.0,Misiones,2025,2025-02
+176,2026-01-15,martin,sanchez,Monitor,Pantallas,3,280000,840000.0,Formosa,2026,2026-01
+177,2025-12-01,martin,martinez,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2025,2025-12
+178,2026-07-08,martin,fernandez,Webcam,Video,2,70000,140000.0,Buenos Aires,2026,2026-07
+179,2026-03-11,sofia,gomez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2026,2026-03
+180,2026-07-22,carlos,perez,Webcam,Video,1,70000,70000.0,Corrientes,2026,2026-07
+181,2026-05-21,ana,perez,Notebook,Computacion,1,900000,900000.0,Buenos Aires,2026,2026-05
+182,2026-03-24,mateo,diaz,Impresora,Impresion,2,220000,440000.0,Chaco,2026,2026-03
+183,2025-08-07,pedro,gomez,Auriculares,Audio,2,50000,100000.0,Chaco,2025,2025-08
+184,2025-02-07,lucia,romero,Impresora,Impresion,1,220000,220000.0,Chaco,2025,2025-02
+185,2025-08-31,maria,sanchez,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2025,2025-08
+186,2025-04-01,sofia,romero,Auriculares,Audio,1,50000,50000.0,Formosa,2025,2025-04
+187,2025-06-20,mateo,fernandez,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-06
+188,2026-04-25,sofia,rodriguez,Mouse,Perifericos,5,18000,90000.0,Chaco,2026,2026-04
+189,2025-08-29,mateo,torres,Teclado,Perifericos,4,35000,140000.0,Misiones,2025,2025-08
+190,2025-04-15,mateo,perez,Mouse,Perifericos,3,18000,54000.0,Cordoba,2025,2025-04
+191,2026-05-18,maria,martinez,Mouse,Perifericos,5,18000,90000.0,Chaco,2026,2026-05
+192,2026-01-20,martin,rodriguez,Teclado,Perifericos,4,35000,140000.0,Cordoba,2026,2026-01
+193,2025-12-11,maria,martinez,Teclado,Perifericos,2,35000,70000.0,Chaco,2025,2025-12
+194,2026-07-20,mateo,gomez,Impresora,Impresion,1,220000,220000.0,Chaco,2026,2026-07
+195,2026-04-09,maria,torres,Teclado,Perifericos,3,35000,105000.0,Corrientes,2026,2026-04
+196,2025-05-18,maria,lopez,Monitor,Pantallas,3,280000,840000.0,Formosa,2025,2025-05
+197,2025-07-16,mateo,rodriguez,Mouse,Perifericos,3,18000,54000.0,Cordoba,2025,2025-07
+198,2025-05-24,mateo,sanchez,Notebook,Computacion,3,900000,2700000.0,Formosa,2025,2025-05
+199,2026-04-21,juan,lopez,Notebook,Computacion,1,900000,900000.0,Buenos Aires,2026,2026-04
+200,2025-11-24,carlos,gomez,Webcam,Video,5,70000,350000.0,Cordoba,2025,2025-11
+201,2026-07-28,ana,sanchez,Monitor,Pantallas,2,280000,560000.0,Misiones,2026,2026-07
+202,2025-03-12,mateo,gomez,Auriculares,Audio,4,50000,200000.0,Buenos Aires,2025,2025-03
+203,2025-12-14,pedro,lopez,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-12
+204,2026-02-28,carlos,torres,Mouse,Perifericos,2,18000,36000.0,Cordoba,2026,2026-02
+205,2026-06-28,ana,gomez,Mouse,Perifericos,3,18000,54000.0,Misiones,2026,2026-06
+206,2025-03-11,lucia,diaz,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-03
+207,2026-06-01,valentina,lopez,Impresora,Impresion,2,220000,440000.0,Buenos Aires,2026,2026-06
+208,2025-08-16,sofia,gomez,Notebook,Computacion,4,900000,3600000.0,Misiones,2025,2025-08
+209,2025-09-04,maria,sanchez,Webcam,Video,3,70000,210000.0,Misiones,2025,2025-09
+210,2025-03-02,martin,sanchez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2025,2025-03
+211,2026-05-04,martin,romero,Teclado,Perifericos,3,35000,105000.0,Formosa,2026,2026-05
+212,2025-09-24,pedro,romero,Mouse,Perifericos,3,18000,54000.0,Formosa,2025,2025-09
+213,2026-04-12,pedro,romero,Monitor,Pantallas,4,280000,1120000.0,Buenos Aires,2026,2026-04
+214,2026-05-02,ana,martinez,Mouse,Perifericos,5,18000,90000.0,Cordoba,2026,2026-05
+215,2026-07-13,carlos,romero,Mouse,Perifericos,5,18000,90000.0,Cordoba,2026,2026-07
+216,2025-07-09,ana,sanchez,Monitor,Pantallas,5,280000,1400000.0,Buenos Aires,2025,2025-07
+217,2026-08-11,valentina,torres,Mouse,Perifericos,1,18000,18000.0,Corrientes,2026,2026-08
+218,2025-03-07,ana,romero,Notebook,Computacion,4,900000,3600000.0,Formosa,2025,2025-03
+219,2026-03-03,martin,rodriguez,Impresora,Impresion,1,220000,220000.0,Buenos Aires,2026,2026-03
+220,2025-09-17,ana,gomez,Monitor,Pantallas,5,280000,1400000.0,Cordoba,2025,2025-09
+221,2026-08-21,lucia,martinez,Mouse,Perifericos,4,18000,72000.0,Corrientes,2026,2026-08
+222,2026-03-21,lucia,lopez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2026,2026-03
+223,2025-10-18,maria,diaz,Auriculares,Audio,3,50000,150000.0,Formosa,2025,2025-10
+224,2026-08-21,sofia,fernandez,Mouse,Perifericos,2,18000,36000.0,Misiones,2026,2026-08
+225,2026-08-05,mateo,torres,Notebook,Computacion,1,900000,900000.0,Misiones,2026,2026-08
+226,2026-08-18,sofia,romero,Impresora,Impresion,4,220000,880000.0,Corrientes,2026,2026-08
+227,2026-02-07,lucia,diaz,Teclado,Perifericos,4,35000,140000.0,Cordoba,2026,2026-02
+228,2025-01-07,valentina,rodriguez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2025,2025-01
+229,2025-09-25,juan,perez,Notebook,Computacion,3,900000,2700000.0,Chaco,2025,2025-09
+230,2025-05-30,martin,fernandez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-05
+231,2025-04-23,ana,lopez,Webcam,Video,1,70000,70000.0,Formosa,2025,2025-04
+232,2025-06-24,carlos,fernandez,Monitor,Pantallas,1,280000,280000.0,Formosa,2025,2025-06
+233,2025-04-06,valentina,romero,Mouse,Perifericos,4,18000,72000.0,Cordoba,2025,2025-04
+234,2025-10-30,lucia,fernandez,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-10
+235,2026-03-11,pedro,rodriguez,Monitor,Pantallas,1,280000,280000.0,Misiones,2026,2026-03
+236,2026-05-21,carlos,martinez,Auriculares,Audio,3,50000,150000.0,Formosa,2026,2026-05
+237,2025-10-06,mateo,lopez,Teclado,Perifericos,3,35000,105000.0,Formosa,2025,2025-10
+238,2025-05-22,pedro,martinez,Impresora,Impresion,4,220000,880000.0,Chaco,2025,2025-05
+239,2025-10-13,sofia,diaz,Teclado,Perifericos,3,35000,105000.0,Buenos Aires,2025,2025-10
+240,2025-05-04,lucia,sanchez,Impresora,Impresion,1,220000,220000.0,Formosa,2025,2025-05
+241,2025-08-24,maria,diaz,Auriculares,Audio,2,50000,100000.0,Cordoba,2025,2025-08
+242,2025-12-02,carlos,gomez,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-12
+243,2025-01-01,carlos,fernandez,Mouse,Perifericos,2,18000,36000.0,Formosa,2025,2025-01
+244,2025-05-28,maria,romero,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2025,2025-05
+245,2025-11-18,lucia,fernandez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-11
+246,2025-01-15,juan,fernandez,Teclado,Perifericos,5,35000,175000.0,Misiones,2025,2025-01
+247,2026-03-29,carlos,torres,Teclado,Perifericos,3,35000,105000.0,Buenos Aires,2026,2026-03
+248,2025-09-09,pedro,rodriguez,Auriculares,Audio,3,50000,150000.0,Formosa,2025,2025-09
+249,2025-03-11,sofia,sanchez,Impresora,Impresion,1,220000,220000.0,Buenos Aires,2025,2025-03
+250,2025-06-29,mateo,lopez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-06
+251,2026-01-06,martin,gomez,Auriculares,Audio,2,50000,100000.0,Chaco,2026,2026-01
+252,2025-08-13,carlos,perez,Mouse,Perifericos,1,18000,18000.0,Corrientes,2025,2025-08
+253,2025-07-31,valentina,sanchez,Monitor,Pantallas,5,280000,1400000.0,Buenos Aires,2025,2025-07
+254,2025-02-04,ana,gomez,Impresora,Impresion,5,220000,1100000.0,Formosa,2025,2025-02
+255,2025-08-15,mateo,torres,Webcam,Video,4,70000,280000.0,Formosa,2025,2025-08
+256,2025-07-06,carlos,rodriguez,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-07
+257,2025-01-23,sofia,fernandez,Impresora,Impresion,5,220000,1100000.0,Formosa,2025,2025-01
+258,2026-03-18,martin,lopez,Notebook,Computacion,3,900000,2700000.0,Misiones,2026,2026-03
+259,2025-05-14,pedro,martinez,Webcam,Video,2,70000,140000.0,Chaco,2025,2025-05
+260,2026-06-08,juan,fernandez,Auriculares,Audio,1,50000,50000.0,Buenos Aires,2026,2026-06
+261,2025-01-29,carlos,fernandez,Webcam,Video,1,70000,70000.0,Misiones,2025,2025-01
+262,2025-04-10,ana,romero,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-04
+263,2026-06-12,juan,lopez,Mouse,Perifericos,5,18000,90000.0,Chaco,2026,2026-06
+264,2025-06-02,mateo,rodriguez,Auriculares,Audio,2,50000,100000.0,Formosa,2025,2025-06
+265,2025-04-11,carlos,lopez,Notebook,Computacion,5,900000,4500000.0,Cordoba,2025,2025-04
+266,2025-10-19,lucia,torres,Notebook,Computacion,5,900000,4500000.0,Formosa,2025,2025-10
+267,2026-07-12,maria,gomez,Teclado,Perifericos,2,35000,70000.0,Formosa,2026,2026-07
+268,2025-03-01,carlos,fernandez,Monitor,Pantallas,1,280000,280000.0,Chaco,2025,2025-03
+269,2025-05-15,martin,romero,Monitor,Pantallas,5,280000,1400000.0,Chaco,2025,2025-05
+270,2025-09-01,carlos,sanchez,Monitor,Pantallas,3,280000,840000.0,Chaco,2025,2025-09
+271,2025-08-07,maria,diaz,Notebook,Computacion,2,900000,1800000.0,Chaco,2025,2025-08
+272,2026-05-20,martin,gomez,Auriculares,Audio,1,50000,50000.0,Formosa,2026,2026-05
+273,2026-05-25,pedro,gomez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2026,2026-05
+274,2026-04-01,ana,sanchez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2026,2026-04
+275,2026-07-12,mateo,rodriguez,Auriculares,Audio,5,50000,250000.0,Misiones,2026,2026-07
+276,2025-08-05,carlos,martinez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2025,2025-08
+277,2025-02-08,juan,perez,Teclado,Perifericos,1,35000,35000.0,Misiones,2025,2025-02
+278,2026-08-17,maria,martinez,Auriculares,Audio,3,50000,150000.0,Formosa,2026,2026-08
+279,2025-08-17,carlos,gomez,Mouse,Perifericos,2,18000,36000.0,Misiones,2025,2025-08
+280,2025-05-25,valentina,lopez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-05
+281,2026-02-26,maria,rodriguez,Mouse,Perifericos,1,18000,18000.0,Misiones,2026,2026-02
+282,2026-06-10,maria,rodriguez,Monitor,Pantallas,2,280000,560000.0,Misiones,2026,2026-06
+283,2025-11-22,ana,lopez,Teclado,Perifericos,4,35000,140000.0,Chaco,2025,2025-11
+284,2025-03-05,ana,gomez,Impresora,Impresion,2,220000,440000.0,Misiones,2025,2025-03
+285,2025-10-02,martin,rodriguez,Mouse,Perifericos,4,18000,72000.0,Cordoba,2025,2025-10
+286,2025-06-21,sofia,gomez,Monitor,Pantallas,2,280000,560000.0,Chaco,2025,2025-06
+287,2025-11-15,lucia,torres,Impresora,Impresion,3,220000,660000.0,Buenos Aires,2025,2025-11
+288,2026-07-10,mateo,rodriguez,Mouse,Perifericos,4,18000,72000.0,Buenos Aires,2026,2026-07
+289,2026-01-09,sofia,torres,Auriculares,Audio,1,50000,50000.0,Corrientes,2026,2026-01
+290,2025-05-24,mateo,perez,Notebook,Computacion,3,900000,2700000.0,Misiones,2025,2025-05
+291,2025-01-16,carlos,sanchez,Impresora,Impresion,3,220000,660000.0,Formosa,2025,2025-01
+292,2025-06-23,maria,fernandez,Notebook,Computacion,5,900000,4500000.0,Formosa,2025,2025-06
+293,2026-02-12,sofia,perez,Mouse,Perifericos,4,18000,72000.0,Chaco,2026,2026-02
+294,2026-06-03,valentina,romero,Teclado,Perifericos,2,35000,70000.0,Cordoba,2026,2026-06
+295,2025-03-23,carlos,perez,Webcam,Video,2,70000,140000.0,Buenos Aires,2025,2025-03
+296,2025-08-12,carlos,rodriguez,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-08
+297,2026-06-11,ana,sanchez,Notebook,Computacion,2,900000,1800000.0,Corrientes,2026,2026-06
+298,2025-11-14,maria,gomez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2025,2025-11
+299,2025-01-21,carlos,perez,Mouse,Perifericos,4,18000,72000.0,Buenos Aires,2025,2025-01
+300,2025-01-22,sofia,rodriguez,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-01
+301,2026-03-30,mateo,gomez,Teclado,Perifericos,1,35000,35000.0,Buenos Aires,2026,2026-03
+302,2025-10-17,martin,martinez,Monitor,Pantallas,1,280000,280000.0,Chaco,2025,2025-10
+303,2025-05-30,ana,gomez,Mouse,Perifericos,3,18000,54000.0,Formosa,2025,2025-05
+304,2025-01-15,maria,gomez,Teclado,Perifericos,2,35000,70000.0,Chaco,2025,2025-01
+305,2025-04-27,lucia,gomez,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-04
+306,2026-02-16,ana,torres,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2026,2026-02
+307,2026-03-08,sofia,sanchez,Impresora,Impresion,2,220000,440000.0,Cordoba,2026,2026-03
+308,2025-06-27,carlos,perez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2025,2025-06
+309,2025-01-28,lucia,fernandez,Webcam,Video,3,70000,210000.0,Formosa,2025,2025-01
+310,2025-09-11,maria,fernandez,Impresora,Impresion,3,220000,660000.0,Cordoba,2025,2025-09
+311,2025-07-01,lucia,fernandez,Notebook,Computacion,4,900000,3600000.0,Cordoba,2025,2025-07
+312,2026-04-22,lucia,sanchez,Impresora,Impresion,4,220000,880000.0,Cordoba,2026,2026-04
+313,2026-06-29,pedro,diaz,Mouse,Perifericos,4,18000,72000.0,Chaco,2026,2026-06
+314,2025-10-29,carlos,diaz,Monitor,Pantallas,5,280000,1400000.0,Formosa,2025,2025-10
+315,2025-07-22,carlos,martinez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2025,2025-07
+316,2025-11-27,carlos,martinez,Mouse,Perifericos,2,18000,36000.0,Chaco,2025,2025-11
+317,2026-02-28,sofia,diaz,Impresora,Impresion,1,220000,220000.0,Chaco,2026,2026-02
+318,2025-05-10,maria,rodriguez,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-05
+319,2025-11-20,lucia,fernandez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2025,2025-11
+320,2026-05-31,pedro,perez,Monitor,Pantallas,2,280000,560000.0,Misiones,2026,2026-05
+321,2026-04-05,mateo,gomez,Webcam,Video,2,70000,140000.0,Cordoba,2026,2026-04
+322,2026-05-27,carlos,rodriguez,Impresora,Impresion,4,220000,880000.0,Cordoba,2026,2026-05
+323,2026-04-30,pedro,fernandez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2026,2026-04
+324,2025-11-26,ana,torres,Teclado,Perifericos,3,35000,105000.0,Misiones,2025,2025-11
+325,2025-10-16,pedro,gomez,Notebook,Computacion,4,900000,3600000.0,Misiones,2025,2025-10
+326,2025-11-20,martin,perez,Webcam,Video,2,70000,140000.0,Cordoba,2025,2025-11
+327,2025-03-07,mateo,sanchez,Monitor,Pantallas,2,280000,560000.0,Chaco,2025,2025-03
+328,2025-02-08,valentina,martinez,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-02
+329,2025-03-07,carlos,diaz,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-03
+330,2025-12-29,juan,torres,Webcam,Video,4,70000,280000.0,Formosa,2025,2025-12
+331,2026-06-29,lucia,sanchez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-06
+332,2025-02-08,valentina,diaz,Mouse,Perifericos,5,18000,90000.0,Formosa,2025,2025-02
+333,2025-10-18,valentina,perez,Auriculares,Audio,4,50000,200000.0,Formosa,2025,2025-10
+334,2025-07-13,lucia,gomez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-07
+335,2025-10-12,valentina,rodriguez,Mouse,Perifericos,3,18000,54000.0,Misiones,2025,2025-10
+336,2025-04-04,pedro,martinez,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-04
+337,2026-08-16,lucia,rodriguez,Webcam,Video,1,70000,70000.0,Buenos Aires,2026,2026-08
+338,2026-01-07,valentina,diaz,Auriculares,Audio,2,50000,100000.0,Formosa,2026,2026-01
+339,2025-02-21,mateo,fernandez,Webcam,Video,5,70000,350000.0,Corrientes,2025,2025-02
+340,2025-02-07,maria,martinez,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-02
+341,2026-08-03,lucia,diaz,Auriculares,Audio,1,50000,50000.0,Misiones,2026,2026-08
+342,2025-09-03,valentina,sanchez,Notebook,Computacion,5,900000,4500000.0,Formosa,2025,2025-09
+343,2025-07-05,pedro,lopez,Impresora,Impresion,1,220000,220000.0,Formosa,2025,2025-07
+344,2025-07-25,carlos,diaz,Mouse,Perifericos,1,18000,18000.0,Formosa,2025,2025-07
+345,2025-12-18,maria,gomez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-12
+346,2025-03-09,maria,torres,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-03
+347,2026-07-19,lucia,perez,Impresora,Impresion,5,220000,1100000.0,Chaco,2026,2026-07
+348,2026-03-20,maria,sanchez,Auriculares,Audio,2,50000,100000.0,Chaco,2026,2026-03
+349,2026-06-27,mateo,diaz,Auriculares,Audio,1,50000,50000.0,Formosa,2026,2026-06
+350,2026-07-04,mateo,martinez,Notebook,Computacion,4,900000,3600000.0,Formosa,2026,2026-07
+351,2026-07-29,sofia,diaz,Mouse,Perifericos,3,18000,54000.0,Cordoba,2026,2026-07
+352,2026-01-03,sofia,lopez,Notebook,Computacion,1,900000,900000.0,Chaco,2026,2026-01
+353,2025-09-01,lucia,diaz,Teclado,Perifericos,1,35000,35000.0,Misiones,2025,2025-09
+354,2025-09-24,sofia,lopez,Mouse,Perifericos,1,18000,18000.0,Formosa,2025,2025-09
+355,2025-06-12,martin,rodriguez,Auriculares,Audio,4,50000,200000.0,Buenos Aires,2025,2025-06
+356,2026-04-20,pedro,torres,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2026,2026-04
+357,2026-08-17,martin,gomez,Notebook,Computacion,4,900000,3600000.0,Buenos Aires,2026,2026-08
+358,2025-03-01,maria,sanchez,Monitor,Pantallas,4,280000,1120000.0,Chaco,2025,2025-03
+359,2026-01-08,martin,torres,Teclado,Perifericos,2,35000,70000.0,Buenos Aires,2026,2026-01
+360,2025-01-08,pedro,diaz,Teclado,Perifericos,3,35000,105000.0,Cordoba,2025,2025-01
+361,2026-01-21,ana,torres,Teclado,Perifericos,1,35000,35000.0,Formosa,2026,2026-01
+362,2026-06-27,sofia,perez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2026,2026-06
+363,2026-03-30,martin,perez,Mouse,Perifericos,5,18000,90000.0,Cordoba,2026,2026-03
+364,2025-11-24,mateo,perez,Mouse,Perifericos,3,18000,54000.0,Cordoba,2025,2025-11
+365,2025-11-05,maria,diaz,Mouse,Perifericos,1,18000,18000.0,Corrientes,2025,2025-11
+366,2026-07-21,mateo,gomez,Webcam,Video,1,70000,70000.0,Cordoba,2026,2026-07
+367,2025-05-27,valentina,diaz,Impresora,Impresion,2,220000,440000.0,Misiones,2025,2025-05
+368,2026-07-08,maria,rodriguez,Webcam,Video,4,70000,280000.0,Cordoba,2026,2026-07
+369,2025-12-02,mateo,torres,Monitor,Pantallas,2,280000,560000.0,Buenos Aires,2025,2025-12
+370,2026-01-19,sofia,gomez,Teclado,Perifericos,1,35000,35000.0,Misiones,2026,2026-01
+371,2025-08-27,ana,romero,Auriculares,Audio,4,50000,200000.0,Buenos Aires,2025,2025-08
+372,2026-03-03,carlos,rodriguez,Impresora,Impresion,5,220000,1100000.0,Chaco,2026,2026-03
+373,2025-11-08,lucia,gomez,Auriculares,Audio,1,50000,50000.0,Corrientes,2025,2025-11
+374,2025-04-20,mateo,fernandez,Auriculares,Audio,2,50000,100000.0,Buenos Aires,2025,2025-04
+375,2026-07-31,maria,gomez,Impresora,Impresion,2,220000,440000.0,Misiones,2026,2026-07
+376,2025-03-20,maria,fernandez,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2025,2025-03
+377,2025-10-21,valentina,lopez,Auriculares,Audio,5,50000,250000.0,Formosa,2025,2025-10
+378,2025-02-06,ana,perez,Impresora,Impresion,2,220000,440000.0,Cordoba,2025,2025-02
+379,2025-06-11,pedro,gomez,Impresora,Impresion,2,220000,440000.0,Cordoba,2025,2025-06
+380,2026-02-28,lucia,sanchez,Teclado,Perifericos,3,35000,105000.0,Misiones,2026,2026-02
+381,2026-01-12,sofia,perez,Webcam,Video,2,70000,140000.0,Chaco,2026,2026-01
+382,2026-07-25,lucia,romero,Monitor,Pantallas,2,280000,560000.0,Chaco,2026,2026-07
+383,2026-03-11,pedro,fernandez,Teclado,Perifericos,4,35000,140000.0,Formosa,2026,2026-03
+384,2025-01-27,ana,fernandez,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-01
+385,2026-07-18,martin,perez,Teclado,Perifericos,5,35000,175000.0,Misiones,2026,2026-07
+386,2025-09-28,carlos,fernandez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2025,2025-09
+387,2025-04-11,martin,fernandez,Notebook,Computacion,3,900000,2700000.0,Misiones,2025,2025-04
+388,2025-12-08,maria,torres,Webcam,Video,5,70000,350000.0,Misiones,2025,2025-12
+389,2025-02-03,lucia,torres,Webcam,Video,3,70000,210000.0,Chaco,2025,2025-02
+390,2025-11-11,mateo,rodriguez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2025,2025-11
+391,2026-02-08,pedro,romero,Mouse,Perifericos,5,18000,90000.0,Misiones,2026,2026-02
+392,2026-04-28,ana,romero,Teclado,Perifericos,5,35000,175000.0,Misiones,2026,2026-04
+393,2026-01-08,lucia,lopez,Mouse,Perifericos,5,18000,90000.0,Chaco,2026,2026-01
+394,2026-07-10,carlos,romero,Monitor,Pantallas,4,280000,1120000.0,Formosa,2026,2026-07
+395,2026-07-29,carlos,gomez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-07
+396,2025-09-26,lucia,sanchez,Teclado,Perifericos,2,35000,70000.0,Corrientes,2025,2025-09
+397,2025-05-13,maria,fernandez,Teclado,Perifericos,3,35000,105000.0,Buenos Aires,2025,2025-05
+398,2025-04-18,juan,gomez,Auriculares,Audio,1,50000,50000.0,Buenos Aires,2025,2025-04
+399,2025-05-09,maria,perez,Mouse,Perifericos,2,18000,36000.0,Cordoba,2025,2025-05
+400,2026-08-07,carlos,martinez,Teclado,Perifericos,3,35000,105000.0,Cordoba,2026,2026-08
+401,2025-06-23,carlos,diaz,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-06
+402,2025-01-28,carlos,rodriguez,Webcam,Video,1,70000,70000.0,Formosa,2025,2025-01
+403,2026-07-22,martin,romero,Monitor,Pantallas,1,280000,280000.0,Cordoba,2026,2026-07
+404,2026-06-23,carlos,perez,Monitor,Pantallas,2,280000,560000.0,Cordoba,2026,2026-06
+405,2026-02-12,mateo,rodriguez,Auriculares,Audio,4,50000,200000.0,Cordoba,2026,2026-02
+406,2026-06-25,carlos,gomez,Teclado,Perifericos,4,35000,140000.0,Buenos Aires,2026,2026-06
+407,2025-08-14,mateo,rodriguez,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-08
+408,2025-09-20,carlos,romero,Notebook,Computacion,2,900000,1800000.0,Chaco,2025,2025-09
+409,2026-08-08,valentina,lopez,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2026,2026-08
+410,2025-01-24,ana,lopez,Mouse,Perifericos,2,18000,36000.0,Buenos Aires,2025,2025-01
+411,2025-09-04,ana,rodriguez,Notebook,Computacion,1,900000,900000.0,Buenos Aires,2025,2025-09
+412,2025-06-27,pedro,lopez,Monitor,Pantallas,3,280000,840000.0,Formosa,2025,2025-06
+413,2025-10-26,pedro,gomez,Teclado,Perifericos,4,35000,140000.0,Formosa,2025,2025-10
+414,2025-08-02,maria,rodriguez,Mouse,Perifericos,2,18000,36000.0,Misiones,2025,2025-08
+415,2025-06-17,martin,romero,Webcam,Video,2,70000,140000.0,Formosa,2025,2025-06
+416,2026-04-05,lucia,martinez,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2026,2026-04
+417,2025-07-11,carlos,diaz,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-07
+418,2025-11-06,valentina,lopez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-11
+419,2025-12-22,pedro,perez,Auriculares,Audio,3,50000,150000.0,Chaco,2025,2025-12
+420,2026-07-02,maria,perez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-07
+421,2025-03-03,maria,fernandez,Teclado,Perifericos,3,35000,105000.0,Cordoba,2025,2025-03
+422,2026-05-27,carlos,lopez,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2026,2026-05
+423,2025-12-14,ana,torres,Webcam,Video,2,70000,140000.0,Formosa,2025,2025-12
+424,2025-01-23,juan,fernandez,Teclado,Perifericos,2,35000,70000.0,Chaco,2025,2025-01
+425,2026-02-03,lucia,fernandez,Webcam,Video,1,70000,70000.0,Misiones,2026,2026-02
+426,2025-01-01,ana,fernandez,Auriculares,Audio,1,50000,50000.0,Corrientes,2025,2025-01
+427,2025-12-27,lucia,romero,Webcam,Video,2,70000,140000.0,Misiones,2025,2025-12
+428,2026-05-17,mateo,fernandez,Webcam,Video,3,70000,210000.0,Formosa,2026,2026-05
+429,2025-04-14,carlos,martinez,Auriculares,Audio,4,50000,200000.0,Cordoba,2025,2025-04
+430,2025-06-10,juan,martinez,Impresora,Impresion,1,220000,220000.0,Misiones,2025,2025-06
+431,2026-03-03,ana,rodriguez,Webcam,Video,3,70000,210000.0,Buenos Aires,2026,2026-03
+432,2026-07-08,carlos,romero,Notebook,Computacion,2,900000,1800000.0,Misiones,2026,2026-07
+433,2025-01-25,sofia,sanchez,Notebook,Computacion,1,900000,900000.0,Cordoba,2025,2025-01
+434,2025-04-21,pedro,gomez,Monitor,Pantallas,3,280000,840000.0,Buenos Aires,2025,2025-04
+435,2026-02-13,maria,torres,Mouse,Perifericos,1,18000,18000.0,Chaco,2026,2026-02
+436,2025-01-22,martin,gomez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2025,2025-01
+437,2025-10-17,valentina,martinez,Notebook,Computacion,4,900000,3600000.0,Chaco,2025,2025-10
+438,2025-07-09,lucia,lopez,Webcam,Video,3,70000,210000.0,Chaco,2025,2025-07
+439,2025-09-24,juan,rodriguez,Mouse,Perifericos,1,18000,18000.0,Chaco,2025,2025-09
+440,2025-08-04,ana,lopez,Notebook,Computacion,4,900000,3600000.0,Corrientes,2025,2025-08
+441,2025-06-27,valentina,rodriguez,Monitor,Pantallas,3,280000,840000.0,Buenos Aires,2025,2025-06
+442,2025-10-19,sofia,romero,Impresora,Impresion,4,220000,880000.0,Formosa,2025,2025-10
+443,2025-10-09,valentina,torres,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-10
+444,2025-01-08,sofia,gomez,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-01
+445,2026-08-16,lucia,perez,Webcam,Video,3,70000,210000.0,Formosa,2026,2026-08
+446,2025-09-06,martin,diaz,Webcam,Video,2,70000,140000.0,Chaco,2025,2025-09
+447,2025-11-28,ana,lopez,Webcam,Video,3,70000,210000.0,Misiones,2025,2025-11
+448,2026-05-18,sofia,perez,Mouse,Perifericos,4,18000,72000.0,Corrientes,2026,2026-05
+449,2025-02-26,ana,diaz,Notebook,Computacion,5,900000,4500000.0,Misiones,2025,2025-02
+450,2026-05-19,valentina,lopez,Auriculares,Audio,2,50000,100000.0,Cordoba,2026,2026-05
+451,2026-04-11,lucia,diaz,Webcam,Video,4,70000,280000.0,Misiones,2026,2026-04
+452,2025-10-19,lucia,diaz,Teclado,Perifericos,2,35000,70000.0,Chaco,2025,2025-10
+453,2025-12-12,sofia,sanchez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-12
+454,2026-06-19,sofia,sanchez,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2026,2026-06
+455,2026-07-04,juan,perez,Auriculares,Audio,1,50000,50000.0,Formosa,2026,2026-07
+456,2025-03-31,pedro,rodriguez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2025,2025-03
+457,2025-03-23,martin,romero,Teclado,Perifericos,5,35000,175000.0,Chaco,2025,2025-03
+458,2025-08-21,valentina,martinez,Impresora,Impresion,4,220000,880000.0,Corrientes,2025,2025-08
+459,2025-02-12,lucia,gomez,Mouse,Perifericos,1,18000,18000.0,Misiones,2025,2025-02
+460,2025-04-12,juan,gomez,Notebook,Computacion,2,900000,1800000.0,Corrientes,2025,2025-04
+461,2025-02-04,ana,sanchez,Teclado,Perifericos,4,35000,140000.0,Formosa,2025,2025-02
+462,2025-07-13,carlos,diaz,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-07
+463,2026-01-29,maria,lopez,Notebook,Computacion,4,900000,3600000.0,Chaco,2026,2026-01
+464,2025-11-06,sofia,rodriguez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-11
+465,2025-08-15,lucia,lopez,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-08
+466,2026-04-18,carlos,torres,Impresora,Impresion,2,220000,440000.0,Chaco,2026,2026-04
+467,2025-12-26,lucia,sanchez,Monitor,Pantallas,5,280000,1400000.0,Corrientes,2025,2025-12
+468,2025-10-06,pedro,torres,Notebook,Computacion,5,900000,4500000.0,Chaco,2025,2025-10
+469,2026-04-28,ana,sanchez,Notebook,Computacion,1,900000,900000.0,Cordoba,2026,2026-04
+470,2025-02-18,ana,sanchez,Teclado,Perifericos,3,35000,105000.0,Cordoba,2025,2025-02
+471,2026-08-08,carlos,lopez,Notebook,Computacion,5,900000,4500000.0,Formosa,2026,2026-08
+472,2025-03-09,juan,diaz,Monitor,Pantallas,3,280000,840000.0,Chaco,2025,2025-03
+473,2025-06-16,carlos,rodriguez,Teclado,Perifericos,1,35000,35000.0,Cordoba,2025,2025-06
+474,2025-01-25,mateo,diaz,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-01
+475,2026-03-20,valentina,perez,Teclado,Perifericos,3,35000,105000.0,Chaco,2026,2026-03
+476,2025-08-08,carlos,gomez,Webcam,Video,5,70000,350000.0,Cordoba,2025,2025-08
+477,2025-04-01,lucia,martinez,Teclado,Perifericos,3,35000,105000.0,Misiones,2025,2025-04
+478,2026-04-29,mateo,martinez,Notebook,Computacion,5,900000,4500000.0,Misiones,2026,2026-04
+479,2025-05-25,pedro,perez,Mouse,Perifericos,3,18000,54000.0,Chaco,2025,2025-05
+480,2026-01-23,lucia,perez,Monitor,Pantallas,1,280000,280000.0,Formosa,2026,2026-01
+481,2026-01-17,mateo,rodriguez,Monitor,Pantallas,1,280000,280000.0,Buenos Aires,2026,2026-01
+482,2025-04-27,juan,martinez,Mouse,Perifericos,3,18000,54000.0,Formosa,2025,2025-04
+483,2026-04-27,valentina,romero,Monitor,Pantallas,2,280000,560000.0,Formosa,2026,2026-04
+484,2025-01-14,martin,lopez,Impresora,Impresion,5,220000,1100000.0,Cordoba,2025,2025-01
+485,2025-03-26,sofia,gomez,Notebook,Computacion,2,900000,1800000.0,Cordoba,2025,2025-03
+486,2026-04-17,pedro,torres,Auriculares,Audio,3,50000,150000.0,Formosa,2026,2026-04
+487,2025-08-19,pedro,romero,Impresora,Impresion,1,220000,220000.0,Corrientes,2025,2025-08
+488,2025-02-01,valentina,gomez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2025,2025-02
+489,2025-01-02,pedro,sanchez,Mouse,Perifericos,4,18000,72000.0,Chaco,2025,2025-01
+490,2025-06-22,carlos,perez,Webcam,Video,5,70000,350000.0,Chaco,2025,2025-06
+491,2026-04-23,sofia,fernandez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2026,2026-04
+492,2026-04-11,lucia,diaz,Webcam,Video,5,70000,350000.0,Chaco,2026,2026-04
+493,2025-12-21,valentina,sanchez,Teclado,Perifericos,4,35000,140000.0,Cordoba,2025,2025-12
+494,2025-07-05,valentina,martinez,Auriculares,Audio,1,50000,50000.0,Chaco,2025,2025-07
+495,2025-11-11,mateo,gomez,Monitor,Pantallas,5,280000,1400000.0,Chaco,2025,2025-11
+496,2026-02-13,ana,torres,Teclado,Perifericos,5,35000,175000.0,Corrientes,2026,2026-02
+497,2025-02-15,maria,martinez,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-02
+498,2026-07-29,sofia,martinez,Notebook,Computacion,2,900000,1800000.0,Misiones,2026,2026-07
+499,2026-03-22,valentina,diaz,Webcam,Video,3,70000,210000.0,Corrientes,2026,2026-03
+500,2026-04-11,sofia,diaz,Auriculares,Audio,3,50000,150000.0,Corrientes,2026,2026-04
+501,2026-08-24,valentina,martinez,Webcam,Video,4,70000,280000.0,Buenos Aires,2026,2026-08
+502,2026-02-05,valentina,fernandez,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2026,2026-02
+503,2025-03-13,maria,lopez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-03
+504,2025-07-17,valentina,fernandez,Teclado,Perifericos,2,35000,70000.0,Chaco,2025,2025-07
+505,2025-03-13,ana,torres,Monitor,Pantallas,2,280000,560000.0,Buenos Aires,2025,2025-03
+506,2025-04-26,martin,martinez,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-04
+507,2026-01-27,martin,martinez,Auriculares,Audio,4,50000,200000.0,Formosa,2026,2026-01
+508,2026-05-15,mateo,perez,Teclado,Perifericos,3,35000,105000.0,Chaco,2026,2026-05
+509,2025-12-17,lucia,torres,Impresora,Impresion,3,220000,660000.0,Cordoba,2025,2025-12
+510,2025-09-29,juan,romero,Teclado,Perifericos,4,35000,140000.0,Cordoba,2025,2025-09
+511,2026-06-06,carlos,martinez,Notebook,Computacion,1,900000,900000.0,Cordoba,2026,2026-06
+512,2026-06-03,sofia,sanchez,Webcam,Video,3,70000,210000.0,Formosa,2026,2026-06
+513,2026-06-27,valentina,fernandez,Mouse,Perifericos,5,18000,90000.0,Corrientes,2026,2026-06
+514,2025-09-03,juan,martinez,Impresora,Impresion,2,220000,440000.0,Misiones,2025,2025-09
+515,2025-10-15,martin,torres,Webcam,Video,5,70000,350000.0,Corrientes,2025,2025-10
+516,2025-05-16,martin,fernandez,Notebook,Computacion,4,900000,3600000.0,Corrientes,2025,2025-05
+517,2026-06-21,valentina,perez,Impresora,Impresion,5,220000,1100000.0,Cordoba,2026,2026-06
+518,2025-04-12,martin,fernandez,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-04
+519,2025-03-07,juan,rodriguez,Mouse,Perifericos,2,18000,36000.0,Buenos Aires,2025,2025-03
+520,2026-02-04,ana,torres,Monitor,Pantallas,2,280000,560000.0,Formosa,2026,2026-02
+521,2026-02-20,juan,diaz,Webcam,Video,5,70000,350000.0,Formosa,2026,2026-02
+522,2026-07-09,sofia,martinez,Impresora,Impresion,3,220000,660000.0,Buenos Aires,2026,2026-07
+523,2026-01-15,maria,lopez,Webcam,Video,2,70000,140000.0,Misiones,2026,2026-01
+524,2025-05-12,lucia,fernandez,Impresora,Impresion,5,220000,1100000.0,Misiones,2025,2025-05
+525,2025-04-29,martin,perez,Monitor,Pantallas,3,280000,840000.0,Chaco,2025,2025-04
+526,2025-02-17,martin,perez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2025,2025-02
+527,2025-01-20,maria,diaz,Auriculares,Audio,5,50000,250000.0,Cordoba,2025,2025-01
+528,2026-04-20,lucia,romero,Auriculares,Audio,3,50000,150000.0,Cordoba,2026,2026-04
+529,2025-05-24,martin,sanchez,Mouse,Perifericos,3,18000,54000.0,Chaco,2025,2025-05
+530,2026-01-22,sofia,torres,Monitor,Pantallas,3,280000,840000.0,Buenos Aires,2026,2026-01
+531,2026-07-30,martin,sanchez,Impresora,Impresion,5,220000,1100000.0,Misiones,2026,2026-07
+532,2026-08-24,valentina,sanchez,Teclado,Perifericos,5,35000,175000.0,Formosa,2026,2026-08
+533,2025-10-15,carlos,torres,Teclado,Perifericos,3,35000,105000.0,Misiones,2025,2025-10
+534,2025-04-29,sofia,rodriguez,Notebook,Computacion,1,900000,900000.0,Formosa,2025,2025-04
+535,2026-06-22,mateo,lopez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-06
+536,2026-01-16,valentina,diaz,Monitor,Pantallas,1,280000,280000.0,Cordoba,2026,2026-01
+537,2025-04-01,pedro,martinez,Impresora,Impresion,2,220000,440000.0,Buenos Aires,2025,2025-04
+538,2025-12-18,juan,martinez,Impresora,Impresion,1,220000,220000.0,Buenos Aires,2025,2025-12
+539,2025-11-29,sofia,sanchez,Impresora,Impresion,2,220000,440000.0,Chaco,2025,2025-11
+540,2025-08-31,pedro,rodriguez,Webcam,Video,3,70000,210000.0,Formosa,2025,2025-08
+541,2025-11-06,sofia,rodriguez,Auriculares,Audio,3,50000,150000.0,Formosa,2025,2025-11
+542,2026-03-14,ana,lopez,Impresora,Impresion,1,220000,220000.0,Corrientes,2026,2026-03
+543,2025-04-13,martin,rodriguez,Mouse,Perifericos,4,18000,72000.0,Cordoba,2025,2025-04
+544,2025-01-15,lucia,perez,Teclado,Perifericos,4,35000,140000.0,Chaco,2025,2025-01
+545,2025-09-24,carlos,romero,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-09
+546,2026-03-26,pedro,rodriguez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-03
+547,2025-04-21,pedro,lopez,Auriculares,Audio,1,50000,50000.0,Misiones,2025,2025-04
+548,2026-06-02,ana,gomez,Impresora,Impresion,5,220000,1100000.0,Cordoba,2026,2026-06
+549,2026-06-28,juan,torres,Monitor,Pantallas,2,280000,560000.0,Misiones,2026,2026-06
+550,2026-01-24,carlos,lopez,Impresora,Impresion,3,220000,660000.0,Chaco,2026,2026-01
+551,2025-08-30,pedro,gomez,Mouse,Perifericos,4,18000,72000.0,Chaco,2025,2025-08
+552,2025-03-27,sofia,diaz,Impresora,Impresion,2,220000,440000.0,Formosa,2025,2025-03
+553,2025-09-23,martin,gomez,Impresora,Impresion,2,220000,440000.0,Chaco,2025,2025-09
+554,2025-08-12,mateo,perez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2025,2025-08
+555,2025-07-21,pedro,gomez,Webcam,Video,2,70000,140000.0,Cordoba,2025,2025-07
+556,2025-10-19,valentina,martinez,Teclado,Perifericos,2,35000,70000.0,Buenos Aires,2025,2025-10
+557,2025-04-19,juan,sanchez,Mouse,Perifericos,3,18000,54000.0,Misiones,2025,2025-04
+558,2025-03-26,sofia,perez,Notebook,Computacion,1,900000,900000.0,Corrientes,2025,2025-03
+559,2025-11-21,carlos,fernandez,Teclado,Perifericos,4,35000,140000.0,Misiones,2025,2025-11
+560,2025-12-12,maria,rodriguez,Impresora,Impresion,1,220000,220000.0,Formosa,2025,2025-12
+561,2026-01-12,pedro,gomez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-01
+562,2026-08-05,juan,diaz,Monitor,Pantallas,1,280000,280000.0,Cordoba,2026,2026-08
+563,2026-08-21,maria,fernandez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2026,2026-08
+564,2026-05-09,sofia,diaz,Webcam,Video,3,70000,210000.0,Buenos Aires,2026,2026-05
+565,2025-08-30,martin,martinez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-08
+566,2026-05-31,juan,diaz,Teclado,Perifericos,5,35000,175000.0,Misiones,2026,2026-05
+567,2025-01-14,mateo,sanchez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2025,2025-01
+568,2026-03-09,carlos,gomez,Webcam,Video,2,70000,140000.0,Chaco,2026,2026-03
+569,2026-02-10,martin,diaz,Notebook,Computacion,3,900000,2700000.0,Misiones,2026,2026-02
+570,2025-03-03,ana,gomez,Teclado,Perifericos,4,35000,140000.0,Buenos Aires,2025,2025-03
+571,2025-09-09,ana,gomez,Monitor,Pantallas,3,280000,840000.0,Corrientes,2025,2025-09
+572,2025-08-05,martin,martinez,Webcam,Video,4,70000,280000.0,Misiones,2025,2025-08
+573,2026-06-23,martin,fernandez,Monitor,Pantallas,5,280000,1400000.0,Chaco,2026,2026-06
+574,2025-08-05,carlos,fernandez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2025,2025-08
+575,2026-05-20,pedro,torres,Notebook,Computacion,1,900000,900000.0,Cordoba,2026,2026-05
+576,2025-03-31,sofia,romero,Impresora,Impresion,3,220000,660000.0,Misiones,2025,2025-03
+577,2026-03-07,pedro,perez,Notebook,Computacion,4,900000,3600000.0,Misiones,2026,2026-03
+578,2025-02-04,martin,gomez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-02
+579,2026-04-24,martin,romero,Auriculares,Audio,3,50000,150000.0,Formosa,2026,2026-04
+580,2025-06-04,ana,fernandez,Auriculares,Audio,2,50000,100000.0,Formosa,2025,2025-06
+581,2026-04-09,martin,lopez,Mouse,Perifericos,1,18000,18000.0,Corrientes,2026,2026-04
+582,2025-10-17,mateo,rodriguez,Impresora,Impresion,4,220000,880000.0,Cordoba,2025,2025-10
+583,2025-06-06,martin,fernandez,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-06
+584,2025-08-20,mateo,torres,Teclado,Perifericos,1,35000,35000.0,Corrientes,2025,2025-08
+585,2025-03-16,juan,torres,Notebook,Computacion,2,900000,1800000.0,Misiones,2025,2025-03
+586,2026-07-27,pedro,martinez,Notebook,Computacion,3,900000,2700000.0,Cordoba,2026,2026-07
+587,2025-11-16,lucia,romero,Auriculares,Audio,2,50000,100000.0,Cordoba,2025,2025-11
+588,2026-05-18,valentina,perez,Monitor,Pantallas,3,280000,840000.0,Chaco,2026,2026-05
+589,2025-02-14,juan,fernandez,Notebook,Computacion,4,900000,3600000.0,Formosa,2025,2025-02
+590,2025-03-17,mateo,perez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2025,2025-03
+591,2026-02-26,pedro,romero,Webcam,Video,4,70000,280000.0,Buenos Aires,2026,2026-02
+592,2026-01-09,lucia,diaz,Impresora,Impresion,2,220000,440000.0,Formosa,2026,2026-01
+593,2025-11-23,lucia,gomez,Notebook,Computacion,2,900000,1800000.0,Chaco,2025,2025-11
+594,2025-07-13,valentina,lopez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2025,2025-07
+595,2025-05-21,valentina,martinez,Impresora,Impresion,2,220000,440000.0,Buenos Aires,2025,2025-05
+596,2025-01-08,mateo,rodriguez,Impresora,Impresion,4,220000,880000.0,Chaco,2025,2025-01
+597,2026-05-23,ana,torres,Monitor,Pantallas,1,280000,280000.0,Misiones,2026,2026-05
+598,2026-01-05,juan,perez,Teclado,Perifericos,1,35000,35000.0,Chaco,2026,2026-01
+599,2025-07-31,ana,gomez,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-07
+600,2025-03-21,juan,rodriguez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2025,2025-03
+601,2025-09-21,valentina,martinez,Auriculares,Audio,5,50000,250000.0,Corrientes,2025,2025-09
+602,2026-06-11,lucia,rodriguez,Monitor,Pantallas,5,280000,1400000.0,Chaco,2026,2026-06
+603,2025-06-09,lucia,diaz,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-06
+604,2026-08-22,valentina,lopez,Impresora,Impresion,5,220000,1100000.0,Chaco,2026,2026-08
+605,2026-07-15,lucia,torres,Impresora,Impresion,1,220000,220000.0,Corrientes,2026,2026-07
+606,2026-07-02,juan,gomez,Monitor,Pantallas,4,280000,1120000.0,Misiones,2026,2026-07
+607,2026-07-31,ana,rodriguez,Impresora,Impresion,4,220000,880000.0,Chaco,2026,2026-07
+608,2026-03-27,maria,perez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-03
+609,2025-07-09,lucia,rodriguez,Monitor,Pantallas,2,280000,560000.0,Chaco,2025,2025-07
+610,2026-07-26,juan,martinez,Teclado,Perifericos,1,35000,35000.0,Formosa,2026,2026-07
+611,2026-01-14,martin,martinez,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2026,2026-01
+612,2025-10-03,sofia,torres,Monitor,Pantallas,3,280000,840000.0,Misiones,2025,2025-10
+613,2026-08-24,lucia,torres,Webcam,Video,5,70000,350000.0,Cordoba,2026,2026-08
+614,2025-11-09,valentina,perez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-11
+615,2026-08-23,lucia,gomez,Impresora,Impresion,5,220000,1100000.0,Chaco,2026,2026-08
+616,2025-01-18,mateo,martinez,Auriculares,Audio,2,50000,100000.0,Formosa,2025,2025-01
+617,2026-08-11,carlos,martinez,Notebook,Computacion,1,900000,900000.0,Formosa,2026,2026-08
+618,2026-03-03,sofia,sanchez,Mouse,Perifericos,3,18000,54000.0,Chaco,2026,2026-03
+619,2026-01-06,juan,romero,Teclado,Perifericos,5,35000,175000.0,Cordoba,2026,2026-01
+620,2025-01-04,valentina,gomez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2025,2025-01
+621,2025-11-14,sofia,perez,Teclado,Perifericos,4,35000,140000.0,Misiones,2025,2025-11
+622,2025-09-06,ana,rodriguez,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2025,2025-09
+623,2025-11-30,valentina,perez,Teclado,Perifericos,5,35000,175000.0,Formosa,2025,2025-11
+624,2025-10-18,ana,torres,Teclado,Perifericos,3,35000,105000.0,Misiones,2025,2025-10
+625,2026-06-29,pedro,fernandez,Webcam,Video,5,70000,350000.0,Chaco,2026,2026-06
+626,2026-03-02,lucia,perez,Monitor,Pantallas,3,280000,840000.0,Corrientes,2026,2026-03
+627,2026-06-04,carlos,sanchez,Mouse,Perifericos,2,18000,36000.0,Misiones,2026,2026-06
+628,2026-03-30,carlos,fernandez,Monitor,Pantallas,3,280000,840000.0,Chaco,2026,2026-03
+629,2025-05-20,valentina,fernandez,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2025,2025-05
+630,2026-04-09,ana,sanchez,Monitor,Pantallas,2,280000,560000.0,Corrientes,2026,2026-04
+631,2026-08-16,lucia,perez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2026,2026-08
+632,2026-03-03,juan,rodriguez,Auriculares,Audio,2,50000,100000.0,Formosa,2026,2026-03
+633,2025-01-03,martin,perez,Mouse,Perifericos,3,18000,54000.0,Corrientes,2025,2025-01
+634,2026-06-19,juan,fernandez,Notebook,Computacion,1,900000,900000.0,Corrientes,2026,2026-06
+635,2026-04-28,valentina,gomez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2026,2026-04
+636,2025-07-24,lucia,romero,Monitor,Pantallas,1,280000,280000.0,Buenos Aires,2025,2025-07
+637,2025-06-06,lucia,gomez,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2025,2025-06
+638,2026-01-15,juan,diaz,Impresora,Impresion,3,220000,660000.0,Formosa,2026,2026-01
+639,2025-06-20,valentina,romero,Mouse,Perifericos,3,18000,54000.0,Misiones,2025,2025-06
+640,2025-07-05,sofia,diaz,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2025,2025-07
+641,2026-02-24,sofia,martinez,Monitor,Pantallas,1,280000,280000.0,Chaco,2026,2026-02
+642,2026-07-07,juan,fernandez,Auriculares,Audio,3,50000,150000.0,Corrientes,2026,2026-07
+643,2025-07-31,valentina,fernandez,Auriculares,Audio,4,50000,200000.0,Cordoba,2025,2025-07
+644,2025-03-04,juan,gomez,Impresora,Impresion,1,220000,220000.0,Misiones,2025,2025-03
+645,2025-11-09,maria,sanchez,Webcam,Video,5,70000,350000.0,Misiones,2025,2025-11
+646,2025-12-01,ana,fernandez,Mouse,Perifericos,1,18000,18000.0,Misiones,2025,2025-12
+647,2025-07-19,carlos,martinez,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-07
+648,2025-03-07,martin,perez,Notebook,Computacion,1,900000,900000.0,Misiones,2025,2025-03
+649,2025-04-06,lucia,romero,Notebook,Computacion,4,900000,3600000.0,Cordoba,2025,2025-04
+650,2025-04-22,lucia,perez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-04
+651,2026-01-06,pedro,sanchez,Notebook,Computacion,4,900000,3600000.0,Misiones,2026,2026-01
+652,2026-05-02,lucia,rodriguez,Notebook,Computacion,4,900000,3600000.0,Formosa,2026,2026-05
+653,2025-12-01,juan,martinez,Webcam,Video,3,70000,210000.0,Cordoba,2025,2025-12
+654,2026-02-20,valentina,sanchez,Impresora,Impresion,5,220000,1100000.0,Misiones,2026,2026-02
+655,2025-06-26,maria,fernandez,Webcam,Video,3,70000,210000.0,Misiones,2025,2025-06
+656,2025-08-28,martin,romero,Impresora,Impresion,1,220000,220000.0,Cordoba,2025,2025-08
+657,2026-04-04,pedro,gomez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2026,2026-04
+658,2025-03-29,valentina,martinez,Monitor,Pantallas,4,280000,1120000.0,Buenos Aires,2025,2025-03
+659,2026-05-24,maria,martinez,Teclado,Perifericos,3,35000,105000.0,Cordoba,2026,2026-05
+660,2025-03-30,carlos,lopez,Notebook,Computacion,1,900000,900000.0,Formosa,2025,2025-03
+661,2026-05-09,pedro,gomez,Webcam,Video,4,70000,280000.0,Chaco,2026,2026-05
+662,2025-05-20,valentina,lopez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2025,2025-05
+663,2025-04-01,valentina,gomez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-04
+664,2025-09-18,maria,perez,Webcam,Video,2,70000,140000.0,Buenos Aires,2025,2025-09
+665,2025-12-31,mateo,diaz,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-12
+666,2026-02-19,juan,lopez,Notebook,Computacion,4,900000,3600000.0,Chaco,2026,2026-02
+667,2026-08-17,carlos,rodriguez,Impresora,Impresion,2,220000,440000.0,Misiones,2026,2026-08
+668,2025-12-05,mateo,rodriguez,Webcam,Video,5,70000,350000.0,Formosa,2025,2025-12
+669,2025-02-11,pedro,fernandez,Notebook,Computacion,1,900000,900000.0,Buenos Aires,2025,2025-02
+670,2025-10-29,lucia,fernandez,Mouse,Perifericos,4,18000,72000.0,Misiones,2025,2025-10
+671,2026-04-04,ana,romero,Notebook,Computacion,4,900000,3600000.0,Chaco,2026,2026-04
+672,2026-02-12,pedro,romero,Teclado,Perifericos,5,35000,175000.0,Buenos Aires,2026,2026-02
+673,2025-11-20,valentina,rodriguez,Mouse,Perifericos,4,18000,72000.0,Chaco,2025,2025-11
+674,2026-01-30,valentina,lopez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2026,2026-01
+675,2026-03-15,maria,sanchez,Auriculares,Audio,1,50000,50000.0,Misiones,2026,2026-03
+676,2025-01-04,maria,perez,Teclado,Perifericos,1,35000,35000.0,Chaco,2025,2025-01
+677,2025-12-24,ana,gomez,Auriculares,Audio,5,50000,250000.0,Cordoba,2025,2025-12
+678,2025-06-03,ana,perez,Auriculares,Audio,1,50000,50000.0,Formosa,2025,2025-06
+679,2026-07-21,maria,rodriguez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-07
+680,2026-04-05,ana,martinez,Teclado,Perifericos,5,35000,175000.0,Chaco,2026,2026-04
+681,2026-01-01,sofia,torres,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2026,2026-01
+682,2025-05-19,sofia,sanchez,Monitor,Pantallas,1,280000,280000.0,Cordoba,2025,2025-05
+683,2025-08-02,ana,martinez,Auriculares,Audio,2,50000,100000.0,Cordoba,2025,2025-08
+684,2026-03-04,carlos,fernandez,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2026,2026-03
+685,2026-07-29,maria,perez,Webcam,Video,2,70000,140000.0,Misiones,2026,2026-07
+686,2025-02-25,sofia,perez,Webcam,Video,4,70000,280000.0,Corrientes,2025,2025-02
+687,2026-05-26,lucia,sanchez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2026,2026-05
+688,2026-01-20,martin,gomez,Monitor,Pantallas,3,280000,840000.0,Misiones,2026,2026-01
+689,2025-05-09,valentina,martinez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2025,2025-05
+690,2026-06-28,martin,perez,Notebook,Computacion,1,900000,900000.0,Corrientes,2026,2026-06
+691,2026-02-25,sofia,perez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2026,2026-02
+692,2025-08-10,maria,perez,Auriculares,Audio,3,50000,150000.0,Cordoba,2025,2025-08
+693,2026-05-29,ana,diaz,Teclado,Perifericos,5,35000,175000.0,Corrientes,2026,2026-05
+694,2026-07-02,sofia,torres,Notebook,Computacion,1,900000,900000.0,Buenos Aires,2026,2026-07
+695,2025-11-11,valentina,rodriguez,Notebook,Computacion,1,900000,900000.0,Cordoba,2025,2025-11
+696,2026-05-09,martin,rodriguez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2026,2026-05
+697,2026-04-16,valentina,sanchez,Teclado,Perifericos,2,35000,70000.0,Buenos Aires,2026,2026-04
+698,2025-01-28,sofia,sanchez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2025,2025-01
+699,2026-06-10,mateo,sanchez,Impresora,Impresion,3,220000,660000.0,Chaco,2026,2026-06
+700,2025-10-17,sofia,fernandez,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-10
+701,2025-01-02,maria,lopez,Webcam,Video,2,70000,140000.0,Cordoba,2025,2025-01
+702,2025-01-03,maria,sanchez,Monitor,Pantallas,5,280000,1400000.0,Formosa,2025,2025-01
+703,2026-06-04,carlos,diaz,Monitor,Pantallas,5,280000,1400000.0,Buenos Aires,2026,2026-06
+704,2025-11-21,valentina,torres,Teclado,Perifericos,5,35000,175000.0,Buenos Aires,2025,2025-11
+705,2025-09-26,carlos,lopez,Auriculares,Audio,1,50000,50000.0,Chaco,2025,2025-09
+706,2026-03-31,juan,rodriguez,Notebook,Computacion,3,900000,2700000.0,Cordoba,2026,2026-03
+707,2025-11-17,juan,diaz,Monitor,Pantallas,1,280000,280000.0,Chaco,2025,2025-11
+708,2025-12-19,martin,diaz,Impresora,Impresion,4,220000,880000.0,Misiones,2025,2025-12
+709,2026-02-26,valentina,perez,Mouse,Perifericos,2,18000,36000.0,Chaco,2026,2026-02
+710,2026-08-05,valentina,rodriguez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2026,2026-08
+711,2026-08-16,juan,sanchez,Auriculares,Audio,3,50000,150000.0,Cordoba,2026,2026-08
+712,2025-12-10,valentina,lopez,Webcam,Video,5,70000,350000.0,Buenos Aires,2025,2025-12
+713,2025-01-17,valentina,martinez,Webcam,Video,4,70000,280000.0,Chaco,2025,2025-01
+714,2025-01-08,carlos,rodriguez,Impresora,Impresion,4,220000,880000.0,Corrientes,2025,2025-01
+715,2025-04-08,valentina,rodriguez,Auriculares,Audio,3,50000,150000.0,Corrientes,2025,2025-04
+716,2025-04-19,valentina,gomez,Teclado,Perifericos,2,35000,70000.0,Buenos Aires,2025,2025-04
+717,2026-08-07,mateo,lopez,Monitor,Pantallas,1,280000,280000.0,Cordoba,2026,2026-08
+718,2025-02-07,mateo,sanchez,Monitor,Pantallas,4,280000,1120000.0,Misiones,2025,2025-02
+719,2025-07-02,juan,rodriguez,Webcam,Video,4,70000,280000.0,Cordoba,2025,2025-07
+720,2025-09-27,sofia,perez,Webcam,Video,4,70000,280000.0,Corrientes,2025,2025-09
+721,2025-08-14,valentina,lopez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2025,2025-08
+722,2025-07-27,lucia,sanchez,Auriculares,Audio,4,50000,200000.0,Buenos Aires,2025,2025-07
+723,2025-06-24,lucia,romero,Impresora,Impresion,1,220000,220000.0,Chaco,2025,2025-06
+724,2025-03-08,ana,diaz,Auriculares,Audio,4,50000,200000.0,Buenos Aires,2025,2025-03
+725,2025-12-26,mateo,sanchez,Webcam,Video,5,70000,350000.0,Chaco,2025,2025-12
+726,2025-06-22,ana,gomez,Teclado,Perifericos,5,35000,175000.0,Chaco,2025,2025-06
+727,2025-05-13,juan,torres,Webcam,Video,3,70000,210000.0,Cordoba,2025,2025-05
+728,2025-10-24,mateo,rodriguez,Auriculares,Audio,5,50000,250000.0,Formosa,2025,2025-10
+729,2025-11-07,maria,lopez,Impresora,Impresion,2,220000,440000.0,Chaco,2025,2025-11
+730,2026-03-14,lucia,martinez,Mouse,Perifericos,2,18000,36000.0,Buenos Aires,2026,2026-03
+731,2026-07-24,maria,martinez,Webcam,Video,3,70000,210000.0,Formosa,2026,2026-07
+732,2026-08-02,mateo,rodriguez,Impresora,Impresion,1,220000,220000.0,Corrientes,2026,2026-08
+733,2025-02-23,valentina,gomez,Monitor,Pantallas,2,280000,560000.0,Chaco,2025,2025-02
+734,2025-09-20,lucia,fernandez,Notebook,Computacion,2,900000,1800000.0,Misiones,2025,2025-09
+735,2025-12-01,maria,torres,Impresora,Impresion,1,220000,220000.0,Misiones,2025,2025-12
+736,2025-05-20,mateo,martinez,Webcam,Video,4,70000,280000.0,Buenos Aires,2025,2025-05
+737,2025-09-26,valentina,sanchez,Auriculares,Audio,4,50000,200000.0,Cordoba,2025,2025-09
+738,2025-11-25,juan,lopez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2025,2025-11
+739,2026-02-20,ana,lopez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2026,2026-02
+740,2025-02-04,maria,rodriguez,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-02
+741,2025-11-03,maria,sanchez,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-11
+742,2025-06-25,lucia,lopez,Auriculares,Audio,3,50000,150000.0,Misiones,2025,2025-06
+743,2026-04-23,mateo,sanchez,Notebook,Computacion,3,900000,2700000.0,Misiones,2026,2026-04
+744,2026-07-30,carlos,romero,Webcam,Video,2,70000,140000.0,Cordoba,2026,2026-07
+745,2026-04-30,lucia,romero,Webcam,Video,4,70000,280000.0,Cordoba,2026,2026-04
+746,2025-05-17,ana,sanchez,Auriculares,Audio,2,50000,100000.0,Misiones,2025,2025-05
+747,2026-03-10,valentina,perez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-03
+748,2025-11-30,lucia,perez,Notebook,Computacion,5,900000,4500000.0,Misiones,2025,2025-11
+749,2026-02-24,martin,sanchez,Monitor,Pantallas,3,280000,840000.0,Misiones,2026,2026-02
+750,2025-06-03,sofia,diaz,Teclado,Perifericos,5,35000,175000.0,Misiones,2025,2025-06
+751,2026-07-09,martin,rodriguez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2026,2026-07
+752,2025-09-06,pedro,martinez,Monitor,Pantallas,5,280000,1400000.0,Chaco,2025,2025-09
+753,2026-04-04,maria,romero,Impresora,Impresion,2,220000,440000.0,Chaco,2026,2026-04
+754,2026-03-06,mateo,diaz,Teclado,Perifericos,2,35000,70000.0,Corrientes,2026,2026-03
+755,2025-08-08,maria,diaz,Webcam,Video,1,70000,70000.0,Formosa,2025,2025-08
+756,2026-05-22,ana,rodriguez,Impresora,Impresion,2,220000,440000.0,Misiones,2026,2026-05
+757,2026-03-06,martin,diaz,Webcam,Video,5,70000,350000.0,Chaco,2026,2026-03
+758,2025-06-08,mateo,torres,Auriculares,Audio,2,50000,100000.0,Misiones,2025,2025-06
+759,2025-08-16,martin,gomez,Notebook,Computacion,2,900000,1800000.0,Corrientes,2025,2025-08
+760,2025-02-27,carlos,martinez,Teclado,Perifericos,4,35000,140000.0,Formosa,2025,2025-02
+761,2026-07-18,valentina,fernandez,Auriculares,Audio,4,50000,200000.0,Corrientes,2026,2026-07
+762,2026-04-24,carlos,romero,Monitor,Pantallas,5,280000,1400000.0,Chaco,2026,2026-04
+763,2026-07-03,valentina,perez,Teclado,Perifericos,5,35000,175000.0,Chaco,2026,2026-07
+764,2025-11-07,valentina,perez,Impresora,Impresion,5,220000,1100000.0,Misiones,2025,2025-11
+765,2025-07-13,martin,torres,Impresora,Impresion,1,220000,220000.0,Buenos Aires,2025,2025-07
+766,2025-05-28,martin,sanchez,Webcam,Video,1,70000,70000.0,Buenos Aires,2025,2025-05
+767,2025-12-04,sofia,perez,Mouse,Perifericos,5,18000,90000.0,Chaco,2025,2025-12
+768,2025-12-14,valentina,sanchez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-12
+769,2026-08-08,maria,fernandez,Webcam,Video,3,70000,210000.0,Buenos Aires,2026,2026-08
+770,2026-03-07,maria,gomez,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2026,2026-03
+771,2025-12-08,sofia,gomez,Auriculares,Audio,1,50000,50000.0,Formosa,2025,2025-12
+772,2026-04-24,pedro,rodriguez,Monitor,Pantallas,1,280000,280000.0,Buenos Aires,2026,2026-04
+773,2025-12-09,ana,perez,Webcam,Video,3,70000,210000.0,Corrientes,2025,2025-12
+774,2026-04-26,lucia,romero,Monitor,Pantallas,5,280000,1400000.0,Misiones,2026,2026-04
+775,2025-07-31,lucia,diaz,Mouse,Perifericos,1,18000,18000.0,Cordoba,2025,2025-07
+776,2025-05-25,ana,gomez,Webcam,Video,5,70000,350000.0,Formosa,2025,2025-05
+777,2025-01-07,maria,rodriguez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2025,2025-01
+778,2026-02-24,maria,lopez,Monitor,Pantallas,1,280000,280000.0,Misiones,2026,2026-02
+779,2026-03-09,mateo,lopez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2026,2026-03
+780,2026-07-14,valentina,torres,Mouse,Perifericos,5,18000,90000.0,Cordoba,2026,2026-07
+781,2026-07-18,valentina,romero,Webcam,Video,4,70000,280000.0,Cordoba,2026,2026-07
+782,2025-07-20,sofia,martinez,Monitor,Pantallas,1,280000,280000.0,Cordoba,2025,2025-07
+783,2025-08-09,lucia,lopez,Auriculares,Audio,2,50000,100000.0,Formosa,2025,2025-08
+784,2026-01-09,carlos,martinez,Webcam,Video,3,70000,210000.0,Formosa,2026,2026-01
+785,2026-03-10,valentina,martinez,Teclado,Perifericos,5,35000,175000.0,Formosa,2026,2026-03
+786,2026-05-25,martin,gomez,Auriculares,Audio,2,50000,100000.0,Buenos Aires,2026,2026-05
+787,2025-09-29,lucia,romero,Mouse,Perifericos,5,18000,90000.0,Misiones,2025,2025-09
+788,2025-01-03,mateo,fernandez,Monitor,Pantallas,1,280000,280000.0,Chaco,2025,2025-01
+789,2025-02-21,maria,lopez,Mouse,Perifericos,4,18000,72000.0,Buenos Aires,2025,2025-02
+790,2025-11-25,ana,gomez,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-11
+791,2025-04-27,maria,lopez,Mouse,Perifericos,5,18000,90000.0,Corrientes,2025,2025-04
+792,2025-05-12,mateo,perez,Teclado,Perifericos,5,35000,175000.0,Formosa,2025,2025-05
+793,2026-03-20,juan,rodriguez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2026,2026-03
+794,2026-06-14,lucia,diaz,Teclado,Perifericos,2,35000,70000.0,Cordoba,2026,2026-06
+795,2025-08-17,sofia,martinez,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-08
+796,2025-02-01,lucia,perez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-02
+797,2026-07-28,pedro,gomez,Webcam,Video,5,70000,350000.0,Corrientes,2026,2026-07
+798,2026-05-06,mateo,diaz,Teclado,Perifericos,4,35000,140000.0,Chaco,2026,2026-05
+799,2025-12-01,carlos,rodriguez,Webcam,Video,3,70000,210000.0,Chaco,2025,2025-12
+800,2026-05-09,pedro,perez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2026,2026-05
+801,2025-11-27,sofia,torres,Monitor,Pantallas,2,280000,560000.0,Buenos Aires,2025,2025-11
+802,2026-01-27,maria,fernandez,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2026,2026-01
+803,2025-10-13,ana,sanchez,Notebook,Computacion,2,900000,1800000.0,Misiones,2025,2025-10
+804,2026-04-06,valentina,torres,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2026,2026-04
+805,2025-02-15,mateo,sanchez,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-02
+806,2025-09-06,juan,gomez,Mouse,Perifericos,2,18000,36000.0,Formosa,2025,2025-09
+807,2025-08-01,pedro,diaz,Impresora,Impresion,4,220000,880000.0,Formosa,2025,2025-08
+808,2025-12-16,juan,rodriguez,Impresora,Impresion,1,220000,220000.0,Misiones,2025,2025-12
+809,2025-10-05,mateo,diaz,Webcam,Video,1,70000,70000.0,Corrientes,2025,2025-10
+810,2026-04-10,valentina,fernandez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2026,2026-04
+811,2025-03-01,carlos,fernandez,Mouse,Perifericos,2,18000,36000.0,Misiones,2025,2025-03
+812,2026-05-09,valentina,lopez,Teclado,Perifericos,3,35000,105000.0,Cordoba,2026,2026-05
+813,2026-06-20,lucia,lopez,Webcam,Video,5,70000,350000.0,Chaco,2026,2026-06
+814,2025-07-07,carlos,rodriguez,Teclado,Perifericos,3,35000,105000.0,Misiones,2025,2025-07
+815,2025-11-11,pedro,diaz,Notebook,Computacion,5,900000,4500000.0,Misiones,2025,2025-11
+816,2025-01-15,martin,rodriguez,Impresora,Impresion,3,220000,660000.0,Formosa,2025,2025-01
+817,2025-05-29,carlos,diaz,Webcam,Video,3,70000,210000.0,Chaco,2025,2025-05
+818,2025-07-08,carlos,martinez,Monitor,Pantallas,3,280000,840000.0,Cordoba,2025,2025-07
+819,2025-04-11,carlos,martinez,Webcam,Video,2,70000,140000.0,Corrientes,2025,2025-04
+820,2025-04-12,sofia,gomez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-04
+821,2026-06-05,valentina,lopez,Teclado,Perifericos,5,35000,175000.0,Formosa,2026,2026-06
+822,2025-08-07,maria,romero,Auriculares,Audio,5,50000,250000.0,Corrientes,2025,2025-08
+823,2026-05-27,ana,sanchez,Teclado,Perifericos,3,35000,105000.0,Corrientes,2026,2026-05
+824,2025-10-29,carlos,fernandez,Webcam,Video,4,70000,280000.0,Buenos Aires,2025,2025-10
+825,2026-05-25,carlos,fernandez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-05
+826,2025-11-14,carlos,sanchez,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2025,2025-11
+827,2025-07-06,maria,gomez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-07
+828,2025-11-05,carlos,martinez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-11
+829,2025-05-05,mateo,romero,Impresora,Impresion,3,220000,660000.0,Formosa,2025,2025-05
+830,2026-02-13,pedro,martinez,Teclado,Perifericos,2,35000,70000.0,Chaco,2026,2026-02
+831,2026-02-19,lucia,torres,Notebook,Computacion,2,900000,1800000.0,Misiones,2026,2026-02
+832,2026-01-27,pedro,perez,Notebook,Computacion,4,900000,3600000.0,Buenos Aires,2026,2026-01
+833,2025-06-24,maria,diaz,Webcam,Video,1,70000,70000.0,Corrientes,2025,2025-06
+834,2026-04-08,sofia,rodriguez,Notebook,Computacion,4,900000,3600000.0,Misiones,2026,2026-04
+835,2026-06-27,sofia,romero,Teclado,Perifericos,4,35000,140000.0,Formosa,2026,2026-06
+836,2025-08-01,valentina,torres,Webcam,Video,2,70000,140000.0,Misiones,2025,2025-08
+837,2025-04-30,juan,torres,Auriculares,Audio,1,50000,50000.0,Cordoba,2025,2025-04
+838,2025-09-08,pedro,diaz,Monitor,Pantallas,4,280000,1120000.0,Misiones,2025,2025-09
+839,2025-04-14,martin,lopez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2025,2025-04
+840,2026-05-02,juan,gomez,Teclado,Perifericos,5,35000,175000.0,Misiones,2026,2026-05
+841,2025-02-20,martin,sanchez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2025,2025-02
+842,2025-10-27,juan,romero,Auriculares,Audio,1,50000,50000.0,Cordoba,2025,2025-10
+843,2026-06-04,maria,perez,Auriculares,Audio,3,50000,150000.0,Misiones,2026,2026-06
+844,2026-03-19,lucia,rodriguez,Notebook,Computacion,5,900000,4500000.0,Chaco,2026,2026-03
+845,2025-07-30,maria,torres,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-07
+846,2026-07-01,martin,rodriguez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2026,2026-07
+847,2025-05-15,maria,romero,Impresora,Impresion,1,220000,220000.0,Misiones,2025,2025-05
+848,2026-06-17,sofia,fernandez,Notebook,Computacion,3,900000,2700000.0,Cordoba,2026,2026-06
+849,2025-05-06,sofia,torres,Teclado,Perifericos,1,35000,35000.0,Misiones,2025,2025-05
+850,2025-07-23,sofia,perez,Mouse,Perifericos,3,18000,54000.0,Corrientes,2025,2025-07
+851,2026-07-16,carlos,diaz,Webcam,Video,3,70000,210000.0,Formosa,2026,2026-07
+852,2025-05-28,sofia,sanchez,Webcam,Video,4,70000,280000.0,Chaco,2025,2025-05
+853,2025-05-04,ana,romero,Teclado,Perifericos,3,35000,105000.0,Corrientes,2025,2025-05
+854,2025-04-03,sofia,diaz,Webcam,Video,1,70000,70000.0,Misiones,2025,2025-04
+855,2026-06-27,pedro,gomez,Notebook,Computacion,2,900000,1800000.0,Formosa,2026,2026-06
+856,2026-03-11,mateo,fernandez,Notebook,Computacion,2,900000,1800000.0,Corrientes,2026,2026-03
+857,2025-05-06,maria,rodriguez,Auriculares,Audio,5,50000,250000.0,Cordoba,2025,2025-05
+858,2026-01-27,mateo,diaz,Teclado,Perifericos,4,35000,140000.0,Buenos Aires,2026,2026-01
+859,2025-04-03,juan,gomez,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-04
+860,2026-05-17,martin,martinez,Monitor,Pantallas,2,280000,560000.0,Corrientes,2026,2026-05
+861,2025-08-30,pedro,martinez,Monitor,Pantallas,2,280000,560000.0,Formosa,2025,2025-08
+862,2026-06-29,maria,martinez,Mouse,Perifericos,4,18000,72000.0,Buenos Aires,2026,2026-06
+863,2025-11-12,sofia,diaz,Monitor,Pantallas,3,280000,840000.0,Formosa,2025,2025-11
+864,2025-05-25,mateo,romero,Mouse,Perifericos,3,18000,54000.0,Corrientes,2025,2025-05
+865,2025-09-28,maria,perez,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2025,2025-09
+866,2025-12-11,ana,rodriguez,Auriculares,Audio,2,50000,100000.0,Corrientes,2025,2025-12
+867,2025-12-08,maria,fernandez,Monitor,Pantallas,4,280000,1120000.0,Formosa,2025,2025-12
+868,2026-01-06,juan,rodriguez,Mouse,Perifericos,4,18000,72000.0,Formosa,2026,2026-01
+869,2026-02-13,pedro,sanchez,Monitor,Pantallas,2,280000,560000.0,Chaco,2026,2026-02
+870,2025-01-06,lucia,martinez,Monitor,Pantallas,5,280000,1400000.0,Cordoba,2025,2025-01
+871,2026-05-17,martin,romero,Impresora,Impresion,2,220000,440000.0,Formosa,2026,2026-05
+872,2025-08-31,valentina,lopez,Auriculares,Audio,1,50000,50000.0,Misiones,2025,2025-08
+873,2025-12-22,martin,torres,Webcam,Video,3,70000,210000.0,Cordoba,2025,2025-12
+874,2026-06-03,juan,perez,Monitor,Pantallas,1,280000,280000.0,Misiones,2026,2026-06
+875,2025-03-25,carlos,lopez,Impresora,Impresion,5,220000,1100000.0,Chaco,2025,2025-03
+876,2026-04-19,ana,fernandez,Webcam,Video,1,70000,70000.0,Formosa,2026,2026-04
+877,2025-08-23,ana,diaz,Webcam,Video,1,70000,70000.0,Corrientes,2025,2025-08
+878,2025-11-14,maria,romero,Impresora,Impresion,5,220000,1100000.0,Cordoba,2025,2025-11
+879,2025-07-06,mateo,martinez,Webcam,Video,3,70000,210000.0,Misiones,2025,2025-07
+880,2026-08-15,juan,sanchez,Mouse,Perifericos,1,18000,18000.0,Chaco,2026,2026-08
+881,2026-02-27,lucia,martinez,Impresora,Impresion,1,220000,220000.0,Formosa,2026,2026-02
+882,2025-04-05,mateo,sanchez,Mouse,Perifericos,1,18000,18000.0,Corrientes,2025,2025-04
+883,2025-01-17,mateo,gomez,Monitor,Pantallas,3,280000,840000.0,Formosa,2025,2025-01
+884,2025-12-28,maria,gomez,Teclado,Perifericos,2,35000,70000.0,Buenos Aires,2025,2025-12
+885,2026-06-07,lucia,torres,Teclado,Perifericos,3,35000,105000.0,Formosa,2026,2026-06
+886,2025-11-04,lucia,perez,Notebook,Computacion,5,900000,4500000.0,Formosa,2025,2025-11
+887,2026-05-02,ana,fernandez,Impresora,Impresion,2,220000,440000.0,Corrientes,2026,2026-05
+888,2025-07-28,valentina,torres,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-07
+889,2026-04-19,maria,romero,Auriculares,Audio,2,50000,100000.0,Cordoba,2026,2026-04
+890,2026-03-02,ana,diaz,Monitor,Pantallas,3,280000,840000.0,Corrientes,2026,2026-03
+891,2025-05-11,martin,lopez,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2025,2025-05
+892,2026-07-01,mateo,perez,Webcam,Video,1,70000,70000.0,Cordoba,2026,2026-07
+893,2025-06-19,sofia,martinez,Teclado,Perifericos,5,35000,175000.0,Corrientes,2025,2025-06
+894,2026-01-06,martin,fernandez,Webcam,Video,1,70000,70000.0,Misiones,2026,2026-01
+895,2025-01-09,sofia,martinez,Auriculares,Audio,4,50000,200000.0,Cordoba,2025,2025-01
+896,2026-05-09,ana,romero,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2026,2026-05
+897,2026-08-15,maria,rodriguez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-08
+898,2026-02-17,martin,rodriguez,Webcam,Video,2,70000,140000.0,Buenos Aires,2026,2026-02
+899,2025-10-18,martin,diaz,Teclado,Perifericos,5,35000,175000.0,Chaco,2025,2025-10
+900,2025-11-03,lucia,diaz,Teclado,Perifericos,5,35000,175000.0,Buenos Aires,2025,2025-11
+901,2026-07-16,lucia,sanchez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2026,2026-07
+902,2026-04-01,juan,martinez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2026,2026-04
+903,2025-02-02,maria,perez,Auriculares,Audio,5,50000,250000.0,Misiones,2025,2025-02
+904,2025-08-13,pedro,torres,Mouse,Perifericos,4,18000,72000.0,Misiones,2025,2025-08
+905,2026-03-06,maria,romero,Auriculares,Audio,5,50000,250000.0,Formosa,2026,2026-03
+906,2025-09-07,carlos,lopez,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-09
+907,2026-07-27,carlos,romero,Auriculares,Audio,3,50000,150000.0,Formosa,2026,2026-07
+908,2026-03-25,lucia,torres,Auriculares,Audio,4,50000,200000.0,Corrientes,2026,2026-03
+909,2026-04-26,maria,perez,Monitor,Pantallas,2,280000,560000.0,Formosa,2026,2026-04
+910,2026-05-27,martin,gomez,Mouse,Perifericos,4,18000,72000.0,Misiones,2026,2026-05
+911,2025-04-17,valentina,gomez,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-04
+912,2025-04-24,ana,diaz,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2025,2025-04
+913,2025-04-05,juan,martinez,Teclado,Perifericos,4,35000,140000.0,Buenos Aires,2025,2025-04
+914,2025-12-18,sofia,diaz,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2025,2025-12
+915,2026-06-14,pedro,torres,Monitor,Pantallas,5,280000,1400000.0,Misiones,2026,2026-06
+916,2026-07-06,lucia,gomez,Monitor,Pantallas,1,280000,280000.0,Cordoba,2026,2026-07
+917,2025-12-06,martin,rodriguez,Auriculares,Audio,5,50000,250000.0,Formosa,2025,2025-12
+918,2025-01-22,ana,lopez,Impresora,Impresion,1,220000,220000.0,Buenos Aires,2025,2025-01
+919,2026-01-17,mateo,perez,Monitor,Pantallas,4,280000,1120000.0,Cordoba,2026,2026-01
+920,2025-07-07,pedro,rodriguez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2025,2025-07
+921,2025-10-15,valentina,sanchez,Webcam,Video,5,70000,350000.0,Corrientes,2025,2025-10
+922,2025-09-28,juan,diaz,Auriculares,Audio,3,50000,150000.0,Misiones,2025,2025-09
+923,2025-04-09,mateo,sanchez,Teclado,Perifericos,4,35000,140000.0,Cordoba,2025,2025-04
+924,2026-05-07,maria,lopez,Teclado,Perifericos,3,35000,105000.0,Misiones,2026,2026-05
+925,2025-01-22,ana,lopez,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-01
+926,2025-12-06,martin,sanchez,Mouse,Perifericos,4,18000,72000.0,Buenos Aires,2025,2025-12
+927,2025-03-03,sofia,sanchez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-03
+928,2026-05-30,juan,torres,Mouse,Perifericos,2,18000,36000.0,Corrientes,2026,2026-05
+929,2025-12-31,carlos,lopez,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2025,2025-12
+930,2026-05-13,pedro,gomez,Auriculares,Audio,4,50000,200000.0,Misiones,2026,2026-05
+931,2025-03-09,mateo,diaz,Webcam,Video,1,70000,70000.0,Formosa,2025,2025-03
+932,2025-11-24,carlos,romero,Mouse,Perifericos,1,18000,18000.0,Chaco,2025,2025-11
+933,2025-11-18,sofia,sanchez,Monitor,Pantallas,5,280000,1400000.0,Corrientes,2025,2025-11
+934,2026-06-15,martin,fernandez,Auriculares,Audio,2,50000,100000.0,Corrientes,2026,2026-06
+935,2025-07-21,ana,rodriguez,Impresora,Impresion,1,220000,220000.0,Cordoba,2025,2025-07
+936,2026-06-28,lucia,fernandez,Auriculares,Audio,2,50000,100000.0,Misiones,2026,2026-06
+937,2025-08-30,pedro,lopez,Teclado,Perifericos,1,35000,35000.0,Misiones,2025,2025-08
+938,2025-08-08,mateo,torres,Monitor,Pantallas,5,280000,1400000.0,Buenos Aires,2025,2025-08
+939,2025-10-23,martin,martinez,Teclado,Perifericos,5,35000,175000.0,Misiones,2025,2025-10
+940,2025-09-26,lucia,lopez,Impresora,Impresion,2,220000,440000.0,Formosa,2025,2025-09
+941,2025-04-09,carlos,torres,Teclado,Perifericos,3,35000,105000.0,Formosa,2025,2025-04
+942,2026-08-02,sofia,lopez,Webcam,Video,5,70000,350000.0,Formosa,2026,2026-08
+943,2025-01-28,mateo,rodriguez,Teclado,Perifericos,5,35000,175000.0,Buenos Aires,2025,2025-01
+944,2025-09-11,valentina,perez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-09
+945,2025-02-23,maria,perez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2025,2025-02
+946,2025-01-20,pedro,martinez,Notebook,Computacion,4,900000,3600000.0,Buenos Aires,2025,2025-01
+947,2025-01-31,sofia,gomez,Impresora,Impresion,5,220000,1100000.0,Formosa,2025,2025-01
+948,2025-06-02,valentina,rodriguez,Webcam,Video,3,70000,210000.0,Chaco,2025,2025-06
+949,2025-04-12,maria,romero,Teclado,Perifericos,5,35000,175000.0,Corrientes,2025,2025-04
+950,2025-05-21,ana,lopez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2025,2025-05
+951,2025-02-08,sofia,romero,Monitor,Pantallas,5,280000,1400000.0,Corrientes,2025,2025-02
+952,2025-01-24,pedro,torres,Notebook,Computacion,1,900000,900000.0,Corrientes,2025,2025-01
+953,2026-05-24,mateo,fernandez,Impresora,Impresion,3,220000,660000.0,Misiones,2026,2026-05
+954,2026-03-23,valentina,perez,Impresora,Impresion,3,220000,660000.0,Corrientes,2026,2026-03
+955,2026-08-22,pedro,diaz,Monitor,Pantallas,4,280000,1120000.0,Misiones,2026,2026-08
+956,2025-10-09,martin,gomez,Teclado,Perifericos,1,35000,35000.0,Corrientes,2025,2025-10
+957,2026-01-01,sofia,perez,Auriculares,Audio,3,50000,150000.0,Misiones,2026,2026-01
+958,2025-01-17,juan,romero,Monitor,Pantallas,2,280000,560000.0,Formosa,2025,2025-01
+959,2025-06-27,sofia,romero,Impresora,Impresion,3,220000,660000.0,Cordoba,2025,2025-06
+960,2025-08-17,sofia,martinez,Auriculares,Audio,2,50000,100000.0,Formosa,2025,2025-08
+961,2025-04-24,ana,sanchez,Notebook,Computacion,5,900000,4500000.0,Formosa,2025,2025-04
+962,2026-01-01,valentina,fernandez,Impresora,Impresion,5,220000,1100000.0,Misiones,2026,2026-01
+963,2025-04-20,carlos,lopez,Auriculares,Audio,5,50000,250000.0,Corrientes,2025,2025-04
+964,2026-02-23,sofia,romero,Notebook,Computacion,1,900000,900000.0,Cordoba,2026,2026-02
+965,2026-06-11,martin,fernandez,Notebook,Computacion,2,900000,1800000.0,Corrientes,2026,2026-06
+966,2026-01-13,sofia,rodriguez,Monitor,Pantallas,1,280000,280000.0,Misiones,2026,2026-01
+967,2026-04-21,juan,sanchez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2026,2026-04
+968,2025-09-14,ana,lopez,Teclado,Perifericos,1,35000,35000.0,Buenos Aires,2025,2025-09
+969,2025-06-08,ana,diaz,Monitor,Pantallas,4,280000,1120000.0,Chaco,2025,2025-06
+970,2026-05-13,pedro,martinez,Teclado,Perifericos,4,35000,140000.0,Misiones,2026,2026-05
+971,2025-02-07,martin,diaz,Notebook,Computacion,1,900000,900000.0,Chaco,2025,2025-02
+972,2025-03-29,maria,fernandez,Notebook,Computacion,4,900000,3600000.0,Misiones,2025,2025-03
+973,2025-02-02,pedro,torres,Notebook,Computacion,4,900000,3600000.0,Corrientes,2025,2025-02
+974,2025-12-20,carlos,rodriguez,Teclado,Perifericos,1,35000,35000.0,Chaco,2025,2025-12
+975,2026-06-16,maria,lopez,Notebook,Computacion,1,900000,900000.0,Formosa,2026,2026-06
+976,2025-07-24,valentina,martinez,Impresora,Impresion,4,220000,880000.0,Misiones,2025,2025-07
+977,2025-05-29,ana,sanchez,Monitor,Pantallas,3,280000,840000.0,Corrientes,2025,2025-05
+978,2025-06-03,martin,diaz,Impresora,Impresion,2,220000,440000.0,Buenos Aires,2025,2025-06
+979,2025-11-10,martin,fernandez,Notebook,Computacion,4,900000,3600000.0,Misiones,2025,2025-11
+980,2026-02-13,valentina,martinez,Monitor,Pantallas,3,280000,840000.0,Cordoba,2026,2026-02
+981,2025-09-08,lucia,perez,Webcam,Video,4,70000,280000.0,Chaco,2025,2025-09
+982,2025-12-01,maria,romero,Auriculares,Audio,4,50000,200000.0,Misiones,2025,2025-12
+983,2026-06-13,juan,lopez,Monitor,Pantallas,4,280000,1120000.0,Cordoba,2026,2026-06
+984,2026-03-03,pedro,torres,Webcam,Video,5,70000,350000.0,Buenos Aires,2026,2026-03
+985,2026-01-22,carlos,martinez,Teclado,Perifericos,3,35000,105000.0,Chaco,2026,2026-01
+986,2025-07-17,valentina,sanchez,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2025,2025-07
+987,2025-09-11,juan,lopez,Notebook,Computacion,4,900000,3600000.0,Cordoba,2025,2025-09
+988,2025-08-01,maria,romero,Impresora,Impresion,1,220000,220000.0,Formosa,2025,2025-08
+989,2025-08-03,juan,diaz,Monitor,Pantallas,2,280000,560000.0,Cordoba,2025,2025-08
+990,2026-02-15,pedro,lopez,Monitor,Pantallas,3,280000,840000.0,Misiones,2026,2026-02
+991,2025-12-26,maria,martinez,Auriculares,Audio,1,50000,50000.0,Chaco,2025,2025-12
+992,2025-09-11,sofia,torres,Monitor,Pantallas,2,280000,560000.0,Misiones,2025,2025-09
+993,2026-06-10,sofia,martinez,Auriculares,Audio,3,50000,150000.0,Buenos Aires,2026,2026-06
+994,2026-02-28,carlos,perez,Mouse,Perifericos,2,18000,36000.0,Cordoba,2026,2026-02
+995,2025-09-21,juan,rodriguez,Notebook,Computacion,1,900000,900000.0,Chaco,2025,2025-09
+996,2025-05-25,juan,torres,Notebook,Computacion,1,900000,900000.0,Corrientes,2025,2025-05
+997,2026-05-18,pedro,lopez,Notebook,Computacion,5,900000,4500000.0,Cordoba,2026,2026-05
+998,2026-01-29,carlos,lopez,Monitor,Pantallas,2,280000,560000.0,Chaco,2026,2026-01
+999,2025-02-09,pedro,martinez,Notebook,Computacion,2,900000,1800000.0,Chaco,2025,2025-02
+1000,2026-06-08,ana,romero,Impresora,Impresion,3,220000,660000.0,Chaco,2026,2026-06
+1001,2025-12-13,lucia,sanchez,Webcam,Video,1,70000,70000.0,Cordoba,2025,2025-12
+1002,2025-03-17,ana,torres,Mouse,Perifericos,5,18000,90000.0,Cordoba,2025,2025-03
+1003,2026-01-08,pedro,gomez,Mouse,Perifericos,3,18000,54000.0,Misiones,2026,2026-01
+1004,2025-10-13,pedro,perez,Notebook,Computacion,5,900000,4500000.0,Formosa,2025,2025-10
+1005,2026-01-19,sofia,rodriguez,Notebook,Computacion,4,900000,3600000.0,Buenos Aires,2026,2026-01
+1006,2026-07-04,maria,rodriguez,Webcam,Video,1,70000,70000.0,Cordoba,2026,2026-07
+1007,2025-06-29,pedro,lopez,Mouse,Perifericos,3,18000,54000.0,Cordoba,2025,2025-06
+1008,2025-10-11,juan,romero,Mouse,Perifericos,2,18000,36000.0,Corrientes,2025,2025-10
+1009,2026-05-25,mateo,martinez,Auriculares,Audio,2,50000,100000.0,Misiones,2026,2026-05
+1010,2025-09-07,ana,perez,Teclado,Perifericos,4,35000,140000.0,Chaco,2025,2025-09
+1011,2026-04-13,sofia,sanchez,Mouse,Perifericos,1,18000,18000.0,Misiones,2026,2026-04
+1012,2025-12-23,martin,lopez,Mouse,Perifericos,1,18000,18000.0,Chaco,2025,2025-12
+1013,2026-06-09,juan,gomez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2026,2026-06
+1014,2026-05-04,mateo,romero,Notebook,Computacion,4,900000,3600000.0,Buenos Aires,2026,2026-05
+1015,2025-08-05,maria,torres,Webcam,Video,5,70000,350000.0,Chaco,2025,2025-08
+1016,2026-05-12,maria,gomez,Monitor,Pantallas,4,280000,1120000.0,Misiones,2026,2026-05
+1017,2025-04-02,carlos,gomez,Notebook,Computacion,4,900000,3600000.0,Corrientes,2025,2025-04
+1018,2026-03-11,lucia,gomez,Impresora,Impresion,5,220000,1100000.0,Cordoba,2026,2026-03
+1019,2026-06-09,maria,rodriguez,Auriculares,Audio,5,50000,250000.0,Formosa,2026,2026-06
+1020,2025-05-18,martin,perez,Notebook,Computacion,2,900000,1800000.0,Formosa,2025,2025-05
+1021,2025-09-08,ana,torres,Impresora,Impresion,4,220000,880000.0,Formosa,2025,2025-09
+1022,2025-05-23,carlos,romero,Auriculares,Audio,1,50000,50000.0,Cordoba,2025,2025-05
+1023,2025-11-30,pedro,sanchez,Mouse,Perifericos,4,18000,72000.0,Misiones,2025,2025-11
+1024,2026-01-24,carlos,lopez,Monitor,Pantallas,4,280000,1120000.0,Cordoba,2026,2026-01
+1025,2025-05-30,carlos,torres,Mouse,Perifericos,4,18000,72000.0,Corrientes,2025,2025-05
+1026,2025-04-09,mateo,martinez,Webcam,Video,2,70000,140000.0,Buenos Aires,2025,2025-04
+1027,2025-09-29,sofia,romero,Auriculares,Audio,1,50000,50000.0,Corrientes,2025,2025-09
+1028,2026-06-24,maria,lopez,Auriculares,Audio,4,50000,200000.0,Corrientes,2026,2026-06
+1029,2026-08-21,mateo,romero,Impresora,Impresion,4,220000,880000.0,Misiones,2026,2026-08
+1030,2026-05-06,valentina,lopez,Mouse,Perifericos,5,18000,90000.0,Corrientes,2026,2026-05
+1031,2025-11-10,mateo,diaz,Monitor,Pantallas,3,280000,840000.0,Corrientes,2025,2025-11
+1032,2025-11-12,pedro,gomez,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-11
+1033,2026-04-30,valentina,diaz,Webcam,Video,1,70000,70000.0,Misiones,2026,2026-04
+1034,2026-02-11,juan,lopez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-02
+1035,2026-04-26,pedro,sanchez,Teclado,Perifericos,4,35000,140000.0,Buenos Aires,2026,2026-04
+1036,2025-07-23,carlos,lopez,Notebook,Computacion,5,900000,4500000.0,Misiones,2025,2025-07
+1037,2025-12-01,lucia,romero,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2025,2025-12
+1038,2026-01-25,carlos,rodriguez,Webcam,Video,5,70000,350000.0,Chaco,2026,2026-01
+1039,2025-02-23,carlos,gomez,Monitor,Pantallas,5,280000,1400000.0,Misiones,2025,2025-02
+1040,2026-06-21,sofia,rodriguez,Webcam,Video,3,70000,210000.0,Misiones,2026,2026-06
+1041,2025-07-12,ana,diaz,Mouse,Perifericos,1,18000,18000.0,Buenos Aires,2025,2025-07
+1042,2026-01-22,sofia,perez,Mouse,Perifericos,2,18000,36000.0,Chaco,2026,2026-01
+1043,2025-01-14,mateo,rodriguez,Teclado,Perifericos,5,35000,175000.0,Corrientes,2025,2025-01
+1044,2026-06-17,mateo,rodriguez,Teclado,Perifericos,4,35000,140000.0,Chaco,2026,2026-06
+1045,2025-10-27,pedro,diaz,Mouse,Perifericos,2,18000,36000.0,Formosa,2025,2025-10
+1046,2025-05-09,maria,romero,Mouse,Perifericos,4,18000,72000.0,Corrientes,2025,2025-05
+1047,2025-08-25,ana,lopez,Teclado,Perifericos,2,35000,70000.0,Cordoba,2025,2025-08
+1048,2025-01-10,pedro,perez,Impresora,Impresion,5,220000,1100000.0,Misiones,2025,2025-01
+1049,2025-06-02,lucia,martinez,Monitor,Pantallas,1,280000,280000.0,Misiones,2025,2025-06
+1050,2026-07-19,mateo,lopez,Mouse,Perifericos,2,18000,36000.0,Buenos Aires,2026,2026-07
+1051,2026-02-22,maria,romero,Mouse,Perifericos,5,18000,90000.0,Buenos Aires,2026,2026-02
+1052,2026-02-06,martin,romero,Notebook,Computacion,2,900000,1800000.0,Misiones,2026,2026-02
+1053,2026-01-13,pedro,perez,Mouse,Perifericos,2,18000,36000.0,Chaco,2026,2026-01
+1054,2025-03-16,sofia,torres,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2025,2025-03
+1055,2026-08-18,lucia,gomez,Notebook,Computacion,4,900000,3600000.0,Corrientes,2026,2026-08
+1056,2025-07-10,lucia,perez,Impresora,Impresion,1,220000,220000.0,Corrientes,2025,2025-07
+1057,2025-06-17,juan,rodriguez,Mouse,Perifericos,5,18000,90000.0,Cordoba,2025,2025-06
+1058,2026-06-07,ana,gomez,Webcam,Video,4,70000,280000.0,Formosa,2026,2026-06
+1059,2026-04-11,mateo,fernandez,Impresora,Impresion,5,220000,1100000.0,Formosa,2026,2026-04
+1060,2026-05-23,valentina,perez,Monitor,Pantallas,1,280000,280000.0,Formosa,2026,2026-05
+1061,2025-11-23,mateo,lopez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2025,2025-11
+1062,2025-03-23,mateo,torres,Teclado,Perifericos,3,35000,105000.0,Cordoba,2025,2025-03
+1063,2026-05-20,mateo,lopez,Impresora,Impresion,4,220000,880000.0,Chaco,2026,2026-05
+1064,2026-07-19,juan,torres,Impresora,Impresion,2,220000,440000.0,Chaco,2026,2026-07
+1065,2025-09-18,ana,gomez,Impresora,Impresion,5,220000,1100000.0,Formosa,2025,2025-09
+1066,2025-01-19,ana,rodriguez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-01
+1067,2025-04-12,mateo,romero,Webcam,Video,5,70000,350000.0,Misiones,2025,2025-04
+1068,2026-07-03,sofia,diaz,Teclado,Perifericos,4,35000,140000.0,Buenos Aires,2026,2026-07
+1069,2025-09-18,juan,lopez,Monitor,Pantallas,3,280000,840000.0,Cordoba,2025,2025-09
+1070,2025-03-27,maria,martinez,Notebook,Computacion,3,900000,2700000.0,Corrientes,2025,2025-03
+1071,2026-03-14,martin,perez,Impresora,Impresion,1,220000,220000.0,Cordoba,2026,2026-03
+1072,2025-04-21,lucia,rodriguez,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-04
+1073,2025-11-30,valentina,sanchez,Impresora,Impresion,3,220000,660000.0,Corrientes,2025,2025-11
+1074,2025-12-06,martin,perez,Teclado,Perifericos,2,35000,70000.0,Chaco,2025,2025-12
+1075,2025-11-19,sofia,torres,Monitor,Pantallas,1,280000,280000.0,Misiones,2025,2025-11
+1076,2025-10-20,ana,rodriguez,Notebook,Computacion,3,900000,2700000.0,Chaco,2025,2025-10
+1077,2026-05-20,juan,diaz,Auriculares,Audio,2,50000,100000.0,Cordoba,2026,2026-05
+1078,2025-11-14,maria,fernandez,Impresora,Impresion,5,220000,1100000.0,Corrientes,2025,2025-11
+1079,2025-09-06,lucia,martinez,Teclado,Perifericos,1,35000,35000.0,Misiones,2025,2025-09
+1080,2025-03-09,sofia,gomez,Webcam,Video,4,70000,280000.0,Formosa,2025,2025-03
+1081,2025-10-12,carlos,martinez,Mouse,Perifericos,5,18000,90000.0,Misiones,2025,2025-10
+1082,2026-03-01,pedro,sanchez,Mouse,Perifericos,1,18000,18000.0,Corrientes,2026,2026-03
+1083,2025-12-10,pedro,romero,Mouse,Perifericos,5,18000,90000.0,Misiones,2025,2025-12
+1084,2025-02-26,lucia,lopez,Notebook,Computacion,5,900000,4500000.0,Chaco,2025,2025-02
+1085,2025-04-14,pedro,martinez,Monitor,Pantallas,5,280000,1400000.0,Corrientes,2025,2025-04
+1086,2025-04-16,maria,gomez,Impresora,Impresion,4,220000,880000.0,Buenos Aires,2025,2025-04
+1087,2026-08-12,sofia,perez,Mouse,Perifericos,2,18000,36000.0,Buenos Aires,2026,2026-08
+1088,2025-07-16,maria,torres,Impresora,Impresion,4,220000,880000.0,Formosa,2025,2025-07
+1089,2025-05-15,martin,lopez,Monitor,Pantallas,4,280000,1120000.0,Corrientes,2025,2025-05
+1090,2026-03-18,pedro,lopez,Webcam,Video,3,70000,210000.0,Corrientes,2026,2026-03
+1091,2026-07-28,lucia,fernandez,Webcam,Video,1,70000,70000.0,Cordoba,2026,2026-07
+1092,2026-05-04,mateo,martinez,Notebook,Computacion,1,900000,900000.0,Misiones,2026,2026-05
+1093,2025-03-14,juan,torres,Webcam,Video,2,70000,140000.0,Buenos Aires,2025,2025-03
+1094,2025-09-20,juan,rodriguez,Impresora,Impresion,2,220000,440000.0,Formosa,2025,2025-09
+1095,2026-01-01,lucia,torres,Teclado,Perifericos,5,35000,175000.0,Corrientes,2026,2026-01
+1096,2025-11-23,valentina,lopez,Monitor,Pantallas,5,280000,1400000.0,Buenos Aires,2025,2025-11
+1097,2025-05-06,juan,gomez,Notebook,Computacion,3,900000,2700000.0,Buenos Aires,2025,2025-05
+1098,2025-07-27,martin,romero,Teclado,Perifericos,5,35000,175000.0,Cordoba,2025,2025-07
+1099,2025-06-29,pedro,diaz,Auriculares,Audio,5,50000,250000.0,Cordoba,2025,2025-06
+1100,2026-01-09,pedro,torres,Auriculares,Audio,2,50000,100000.0,Cordoba,2026,2026-01
+1101,2025-03-26,mateo,torres,Monitor,Pantallas,5,280000,1400000.0,Chaco,2025,2025-03
+1102,2026-02-18,mateo,torres,Auriculares,Audio,3,50000,150000.0,Corrientes,2026,2026-02
+1103,2025-12-02,ana,diaz,Notebook,Computacion,3,900000,2700000.0,Misiones,2025,2025-12
+1104,2026-02-07,pedro,fernandez,Mouse,Perifericos,5,18000,90000.0,Misiones,2026,2026-02
+1105,2025-08-22,juan,rodriguez,Auriculares,Audio,5,50000,250000.0,Misiones,2025,2025-08
+1106,2026-04-21,valentina,rodriguez,Mouse,Perifericos,2,18000,36000.0,Misiones,2026,2026-04
+1107,2025-11-22,ana,fernandez,Teclado,Perifericos,5,35000,175000.0,Misiones,2025,2025-11
+1108,2026-07-08,sofia,romero,Teclado,Perifericos,1,35000,35000.0,Chaco,2026,2026-07
+1109,2025-01-01,sofia,fernandez,Impresora,Impresion,4,220000,880000.0,Cordoba,2025,2025-01
+1110,2026-01-30,martin,diaz,Teclado,Perifericos,4,35000,140000.0,Cordoba,2026,2026-01
+1111,2025-02-13,pedro,fernandez,Webcam,Video,3,70000,210000.0,Corrientes,2025,2025-02
+1112,2026-06-26,ana,diaz,Monitor,Pantallas,5,280000,1400000.0,Misiones,2026,2026-06
+1113,2026-07-24,carlos,perez,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2026,2026-07
+1114,2026-07-01,pedro,martinez,Notebook,Computacion,3,900000,2700000.0,Chaco,2026,2026-07
+1115,2025-02-03,sofia,torres,Notebook,Computacion,4,900000,3600000.0,Chaco,2025,2025-02
+1116,2026-04-12,juan,diaz,Teclado,Perifericos,1,35000,35000.0,Corrientes,2026,2026-04
+1117,2025-07-02,martin,martinez,Auriculares,Audio,1,50000,50000.0,Misiones,2025,2025-07
+1118,2025-07-13,martin,gomez,Notebook,Computacion,1,900000,900000.0,Misiones,2025,2025-07
+1119,2025-08-19,mateo,romero,Teclado,Perifericos,4,35000,140000.0,Formosa,2025,2025-08
+1120,2026-03-11,pedro,lopez,Monitor,Pantallas,2,280000,560000.0,Chaco,2026,2026-03
+1121,2025-01-11,carlos,gomez,Notebook,Computacion,5,900000,4500000.0,Corrientes,2025,2025-01
+1122,2025-04-27,martin,fernandez,Mouse,Perifericos,2,18000,36000.0,Misiones,2025,2025-04
+1123,2026-05-11,lucia,fernandez,Notebook,Computacion,3,900000,2700000.0,Cordoba,2026,2026-05
+1124,2025-03-20,carlos,fernandez,Teclado,Perifericos,3,35000,105000.0,Chaco,2025,2025-03
+1125,2025-09-11,valentina,diaz,Teclado,Perifericos,4,35000,140000.0,Chaco,2025,2025-09
+1126,2025-01-08,martin,lopez,Auriculares,Audio,5,50000,250000.0,Cordoba,2025,2025-01
+1127,2025-08-23,sofia,torres,Auriculares,Audio,2,50000,100000.0,Chaco,2025,2025-08
+1128,2026-08-10,pedro,rodriguez,Mouse,Perifericos,1,18000,18000.0,Formosa,2026,2026-08
+1129,2025-01-14,lucia,perez,Mouse,Perifericos,2,18000,36000.0,Chaco,2025,2025-01
+1130,2025-08-16,mateo,sanchez,Notebook,Computacion,4,900000,3600000.0,Corrientes,2025,2025-08
+1131,2025-09-24,juan,lopez,Notebook,Computacion,5,900000,4500000.0,Misiones,2025,2025-09
+1132,2025-09-06,juan,torres,Notebook,Computacion,3,900000,2700000.0,Corrientes,2025,2025-09
+1133,2025-03-22,juan,fernandez,Impresora,Impresion,5,220000,1100000.0,Cordoba,2025,2025-03
+1134,2025-11-08,juan,lopez,Webcam,Video,1,70000,70000.0,Chaco,2025,2025-11
+1135,2026-03-20,juan,romero,Notebook,Computacion,2,900000,1800000.0,Misiones,2026,2026-03
+1136,2026-01-09,juan,romero,Teclado,Perifericos,3,35000,105000.0,Formosa,2026,2026-01
+1137,2026-03-04,juan,fernandez,Notebook,Computacion,4,900000,3600000.0,Buenos Aires,2026,2026-03
+1138,2026-01-16,valentina,martinez,Webcam,Video,1,70000,70000.0,Chaco,2026,2026-01
+1139,2025-03-15,juan,rodriguez,Notebook,Computacion,3,900000,2700000.0,Chaco,2025,2025-03
+1140,2026-04-12,juan,diaz,Impresora,Impresion,4,220000,880000.0,Misiones,2026,2026-04
+1141,2025-02-28,mateo,sanchez,Mouse,Perifericos,2,18000,36000.0,Corrientes,2025,2025-02
+1142,2025-06-28,sofia,rodriguez,Webcam,Video,2,70000,140000.0,Chaco,2025,2025-06
+1143,2025-10-03,sofia,gomez,Webcam,Video,2,70000,140000.0,Cordoba,2025,2025-10
+1144,2026-02-16,pedro,lopez,Notebook,Computacion,3,900000,2700000.0,Chaco,2026,2026-02
+1145,2025-10-22,maria,rodriguez,Teclado,Perifericos,4,35000,140000.0,Formosa,2025,2025-10
+1146,2025-07-16,sofia,perez,Monitor,Pantallas,2,280000,560000.0,Cordoba,2025,2025-07
+1147,2025-07-26,sofia,martinez,Mouse,Perifericos,5,18000,90000.0,Formosa,2025,2025-07
+1148,2025-05-24,sofia,gomez,Auriculares,Audio,2,50000,100000.0,Cordoba,2025,2025-05
+1149,2025-05-08,mateo,lopez,Teclado,Perifericos,3,35000,105000.0,Buenos Aires,2025,2025-05
+1150,2026-06-02,ana,lopez,Monitor,Pantallas,4,280000,1120000.0,Cordoba,2026,2026-06
+1151,2026-04-15,ana,perez,Auriculares,Audio,5,50000,250000.0,Corrientes,2026,2026-04
+1152,2026-06-30,juan,rodriguez,Webcam,Video,3,70000,210000.0,Cordoba,2026,2026-06
+1153,2025-12-28,ana,fernandez,Mouse,Perifericos,4,18000,72000.0,Formosa,2025,2025-12
+1154,2026-03-04,carlos,gomez,Notebook,Computacion,4,900000,3600000.0,Misiones,2026,2026-03
+1155,2026-01-20,juan,fernandez,Impresora,Impresion,2,220000,440000.0,Chaco,2026,2026-01
+1156,2025-11-22,valentina,sanchez,Impresora,Impresion,1,220000,220000.0,Formosa,2025,2025-11
+1157,2025-11-13,sofia,martinez,Monitor,Pantallas,3,280000,840000.0,Buenos Aires,2025,2025-11
+1158,2025-06-17,sofia,rodriguez,Mouse,Perifericos,5,18000,90000.0,Cordoba,2025,2025-06
+1159,2025-02-06,juan,rodriguez,Impresora,Impresion,3,220000,660000.0,Chaco,2025,2025-02
+1160,2025-05-04,sofia,diaz,Monitor,Pantallas,2,280000,560000.0,Misiones,2025,2025-05
+1161,2026-07-27,maria,rodriguez,Mouse,Perifericos,5,18000,90000.0,Misiones,2026,2026-07
+1162,2025-04-20,martin,perez,Monitor,Pantallas,4,280000,1120000.0,Chaco,2025,2025-04
+1163,2026-06-01,maria,sanchez,Mouse,Perifericos,3,18000,54000.0,Chaco,2026,2026-06
+1164,2026-01-27,lucia,lopez,Mouse,Perifericos,5,18000,90000.0,Misiones,2026,2026-01
+1165,2026-05-29,ana,fernandez,Impresora,Impresion,3,220000,660000.0,Buenos Aires,2026,2026-05
+1166,2025-01-15,ana,rodriguez,Notebook,Computacion,3,900000,2700000.0,Misiones,2025,2025-01
+1167,2026-05-20,maria,lopez,Mouse,Perifericos,3,18000,54000.0,Buenos Aires,2026,2026-05
+1168,2025-06-28,carlos,diaz,Auriculares,Audio,3,50000,150000.0,Formosa,2025,2025-06
+1169,2026-05-01,martin,diaz,Monitor,Pantallas,3,280000,840000.0,Cordoba,2026,2026-05
+1170,2026-08-09,pedro,lopez,Teclado,Perifericos,5,35000,175000.0,Cordoba,2026,2026-08
+1171,2025-10-06,juan,martinez,Webcam,Video,4,70000,280000.0,Corrientes,2025,2025-10
+1172,2025-06-04,lucia,diaz,Teclado,Perifericos,2,35000,70000.0,Corrientes,2025,2025-06
+1173,2026-04-13,sofia,perez,Auriculares,Audio,3,50000,150000.0,Chaco,2026,2026-04
+1174,2025-08-06,carlos,romero,Notebook,Computacion,3,900000,2700000.0,Chaco,2025,2025-08
+1175,2026-02-16,carlos,gomez,Monitor,Pantallas,1,280000,280000.0,Corrientes,2026,2026-02
+1176,2025-09-26,lucia,fernandez,Mouse,Perifericos,1,18000,18000.0,Cordoba,2025,2025-09
+1177,2025-09-09,martin,diaz,Auriculares,Audio,4,50000,200000.0,Cordoba,2025,2025-09
+1178,2025-12-13,pedro,sanchez,Impresora,Impresion,2,220000,440000.0,Corrientes,2025,2025-12
+1179,2025-10-13,ana,fernandez,Notebook,Computacion,2,900000,1800000.0,Buenos Aires,2025,2025-10
+1180,2025-04-20,maria,martinez,Monitor,Pantallas,3,280000,840000.0,Corrientes,2025,2025-04
+1181,2025-05-07,pedro,diaz,Notebook,Computacion,5,900000,4500000.0,Buenos Aires,2025,2025-05
+1182,2025-08-13,lucia,lopez,Teclado,Perifericos,3,35000,105000.0,Misiones,2025,2025-08
+1183,2026-04-06,carlos,fernandez,Teclado,Perifericos,4,35000,140000.0,Corrientes,2026,2026-04
+1184,2026-08-03,pedro,diaz,Mouse,Perifericos,3,18000,54000.0,Formosa,2026,2026-08
+1185,2025-11-14,pedro,romero,Auriculares,Audio,1,50000,50000.0,Corrientes,2025,2025-11
+1186,2025-02-04,ana,romero,Impresora,Impresion,4,220000,880000.0,Chaco,2025,2025-02
+1187,2025-11-23,lucia,lopez,Monitor,Pantallas,3,280000,840000.0,Cordoba,2025,2025-11
+1188,2025-09-07,valentina,lopez,Teclado,Perifericos,1,35000,35000.0,Chaco,2025,2025-09
+1189,2025-02-11,carlos,romero,Teclado,Perifericos,2,35000,70000.0,Formosa,2025,2025-02
+1190,2025-12-11,sofia,romero,Mouse,Perifericos,2,18000,36000.0,Formosa,2025,2025-12
+1191,2026-04-06,lucia,rodriguez,Auriculares,Audio,4,50000,200000.0,Cordoba,2026,2026-04
+1192,2025-09-30,juan,romero,Mouse,Perifericos,4,18000,72000.0,Cordoba,2025,2025-09
+1193,2025-04-03,pedro,rodriguez,Monitor,Pantallas,4,280000,1120000.0,Buenos Aires,2025,2025-04
+1194,2025-03-16,mateo,sanchez,Notebook,Computacion,2,900000,1800000.0,Chaco,2025,2025-03
+1195,2026-05-01,mateo,perez,Notebook,Computacion,2,900000,1800000.0,Corrientes,2026,2026-05
+1196,2025-01-13,mateo,torres,Notebook,Computacion,5,900000,4500000.0,Chaco,2025,2025-01
+1197,2025-03-05,valentina,sanchez,Webcam,Video,2,70000,140000.0,Corrientes,2025,2025-03
+1198,2025-08-24,lucia,torres,Notebook,Computacion,3,900000,2700000.0,Corrientes,2025,2025-08
+1199,2025-06-03,ana,fernandez,Impresora,Impresion,5,220000,1100000.0,Buenos Aires,2025,2025-06
+1200,2026-02-05,juan,rodriguez,Impresora,Impresion,2,220000,440000.0,Corrientes,2026,2026-02
